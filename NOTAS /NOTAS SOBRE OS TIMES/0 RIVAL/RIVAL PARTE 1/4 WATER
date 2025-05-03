@@ -1,0 +1,35 @@
+RIVAL1
+TOTODILE 5
+    LEER            ; LV 1
+    SCRATCH         ; LV 1
+    NO_MOVE         ; SEM MOVE POR ORA
+    NO_MOVE         ; SEM MOVE POR ORA
+
+RIVAL2
+CROCONAW 18        ; DEVERIA SER 16, MAS PRO 3 INICIAIS ESTAREM NA SEGUNDA FORMA, DEIXAREI NO 18
+    LEER            ; LV 1 (PRE)
+    SCRATCH         ; LV 1 (PRE)
+    RAGE            ; LV 7 (PRE)
+    WATER GUN       ; LV 13 (PRE)
+
+RIVAL3
+CROCONAW 22
+    LEER            ; LV 1 (PRE)
+    RAGE            ; LV 7 (PRE)
+    WATER GUN       ; LV 13 (PRE)
+    BITE            ; LV 21
+
+RIVAL4
+FERALIGATR 36      ; DEVERIA SER 32, MAS VOU DEIXAR 36 PROS 3 INICIAIS JÁ ESTAREM NA ÚLTIMA FORMA
+    SURF            ; HM
+    ICE PUNCH       ; TM
+    SCARY FACE      ; LV 28 (PRE)
+    HEADBUTT        ; TM
+
+RIVAL5
+FERALIGATR 38
+    SURF            ; HM
+    ICE PUNCH       ; TM
+    SCARY FACE      ; LV 28 (PRE)
+    EARTHQUAKE      ; TM
+
