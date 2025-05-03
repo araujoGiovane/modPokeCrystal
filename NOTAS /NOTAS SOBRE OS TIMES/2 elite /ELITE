@@ -1,24 +1,15 @@
-
-
-
-MÁSCARA
-NATU 50
-    DRILL PECK     ; EGG
-    PSYCHIC        ; TM
-    CONFUSE RAY    ; LV 19
-    DOUBLE TEAM    ; TM
+WILL
+SLOWKING 49
+    SWAGGER        ; TM
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    EARTHQUAKE     ; TM
 
 SLOWKING 49
     REST           ; TM
     AMNESIA        ; LV 43 (PRE)
     PSYCHIC        ; TM
     ICE BEAM       ; MOVE TUTOR
-
-SLOWKING 49
-    SWAGGER        ; TM
-    SURF           ; HM
-    ICE BEAM       ; MOVE TUTOR
-    EARTHQUAKE     ; TM
 
 GIRAFARIG 49
     PSYCHIC        ; TM
@@ -38,16 +29,33 @@ HYPNO 48
     NIGHTMARE      ; TM
     SHADOW BALL    ; TM
 
+NATU 50
+    DRILL PECK     ; EGG
+    PSYCHIC        ; TM
+    CONFUSE RAY    ; LV 19
+    DOUBLE TEAM    ; TM
 
 
 
 
 KOGA
-CROBAT 51
-    WING ATTACK     ; LV 27 (PRE)
-    TOXIC           ; TM
-    CONFUSE RAY     ; LV 19 (PRE)
+TENTACRUEL 49
+    MIRROR COAT     ; EGG
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    GIGA DRAIN      ; TM
+
+NIDOKING 49
+    SHADOW BALL     ; TM
+    EARTHQUAKE      ; TM
+    AMNESIA         ; EGG
+    THUNDERBOLT     ; MOVE TUTOR
+
+ARIADOS 50
+    AGILITY         ; LV 45 (PRE)
     DOUBLE TEAM     ; TM
+    BATON PASS      ; EGG
+    SLUDGE BOMB     ; TM
 
 MUK 50
     SLUDGE BOMB     ; TM
@@ -61,23 +69,11 @@ WEEZING 50
     PAIN SPLIT      ; EGG
     DESTINY BOND    ; LV 45 (PRE)
 
-ARIADOS 50
-    AGILITY         ; LV 45 (PRE)
+CROBAT 51
+    WING ATTACK     ; LV 27 (PRE)
+    TOXIC           ; TM
+    CONFUSE RAY     ; LV 19 (PRE)
     DOUBLE TEAM     ; TM
-    BATON PASS      ; EGG
-    SLUDGE BOMB     ; TM
-
-NIDOKING 49
-    SHADOW BALL     ; TM
-    EARTHQUAKE      ; TM
-    AMNESIA         ; EGG
-    THUNDERBOLT     ; MOVE TUTOR
-
-TENTACRUEL 49
-    MIRROR COAT     ; EGG
-    SURF            ; HM
-    ICE BEAM        ; MOVE TUTOR
-    GIGA DRAIN      ; TM
 
 
 
@@ -121,12 +117,25 @@ MACHAMP 52
 
 
 
-CAPIVARA
+
+KAREN
 UMBREON 52
     CHARM           ; EGG
     TOXIC           ; TM
     MOONLIGHT       ; LV 52
     PURSUIT         ; LV 19
+
+SNEASEL 51
+    SHADOW BALL     ; TM
+    ICE BEAM        ; MOVE TUTOR
+    SCREECH         ; LV 17
+    DOUBLE TEAM     ; TM
+
+MURKROW 51
+    DRILL PECK      ; EGG
+    FAINT ATTACK    ; LV 31
+    STEEL WING      ; TM
+    MUD-SLAP        ; TM
 
 UMBREON 52
     CONFUSE RAY     ; LV 30
@@ -135,27 +144,13 @@ UMBREON 52
     MOONLIGHT       ; LV 52
 
 MURKROW 51
-    DRILL PECK      ; EGG
-    FAINT ATTACK    ; LV 31
-    STEEL WING      ; TM
-    MUD-SLAP        ; TM
-
-MURKROW 51
     FAINT ATTACK    ; LV 31
     DRILL PECK      ; EGG
     ICY WIND        ; TM
     HIDDEN POWER    ; TM
-
-SNEASEL 51
-    SHADOW BALL     ; TM
-    ICE BEAM        ; MOVE TUTOR
-    SCREECH         ; LV 17
-    DOUBLE TEAM     ; TM
 
 HOUNDOOM 53
     CRUNCH          ; LV 43 (PRE)
     FLAMETHROWER    ; MOVE TUTOR
     SOLARBEAM       ; TM
     SUNNY DAY       ; TM
-
-
