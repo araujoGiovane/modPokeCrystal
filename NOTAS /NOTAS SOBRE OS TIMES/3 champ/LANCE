@@ -1,0 +1,40 @@
+
+
+
+LANCE
+DRAGONITE 55
+    OUTRAGE         ; LV 50 (PRE)
+    THUNDERBOLT     ; MOVE TUTOR
+    FLAMETHROWER    ; MOVE TUTOR
+    SURF            ; HM
+
+DRAGONAIR 54
+    THUNDER WAVE    ; LV 8 (PRE)
+    LIGHT SCREEN    ; EGG
+    THUNDERBOLT     ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR
+
+DRAGONAIR 54
+    AGILITY         ; LV 36 (PRE)
+    THUNDERBOLT     ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR
+    DOUBLE TEAM     ; TM
+
+KINGDRA 53
+    SMOKESCREEN     ; LV 8 (PRE)
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    DRAGONBREATH    ; TM
+
+KINGDRA 53
+    ICY WIND        ; TM
+    HYDRO PUMP      ; LV 43 (PRE)
+    REST            ; TM
+    DRAGONBREATH    ; TM
+
+KINGDRA 53
+    SURF            ; HM
+    DRAGONBREATH    ; TM
+    REST            ; TM
+    DOUBLE TEAM     ; TM
+
