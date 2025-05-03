@@ -815,25 +815,25 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B2F_BLACKTHORN_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, SWINUB
+	db 23, DELIBIRD
 	db 24, ZUBAT
-	db 24, GOLBAT
+	db 24, SNEASEL
 	db 25, SWINUB
 	db 26, GOLBAT
 	db 22, JYNX
 	db 24, JYNX
 	; day
-	db 23, SWINUB
+	db 23, DELIBIRD
 	db 24, ZUBAT
-	db 24, GOLBAT
+	db 24, SNEASEL
 	db 25, SWINUB
 	db 26, GOLBAT
 	db 22, JYNX
 	db 24, JYNX
 	; nite
-	db 23, DELIBIRD
+	db 23, SWINUB
 	db 24, ZUBAT
-	db 24, GOLBAT
+	db 24, JYNX
 	db 25, DELIBIRD
 	db 26, GOLBAT
 	db 22, SNEASEL
@@ -843,15 +843,15 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B3F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 24, SWINUB
+	db 24, DELIBIRD
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, SWINUB
 	db 22, JYNX
-	db 24, JYNX
+	db 24, SNEASEL
 	db 26, JYNX
 	; day
-	db 24, SWINUB
+	db 24, DELIBIRD
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, SWINUB
@@ -859,12 +859,12 @@ JohtoGrassWildMons:
 	db 24, JYNX
 	db 26, JYNX
 	; nite
-	db 24, DELIBIRD
+	db 24, SWINUB
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, DELIBIRD
 	db 22, SNEASEL
-	db 24, SNEASEL
+	db 24, JYNX
 	db 26, SNEASEL
 	end_grass_wildmons
 
@@ -892,7 +892,7 @@ JohtoGrassWildMons:
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, GOLBAT
-	db 24, GOLBAT
+	db 24, SEEL
 	db 24, GOLBAT
 	end_grass_wildmons
 
@@ -917,7 +917,7 @@ JohtoGrassWildMons:
 	; nite
 	db 22, KRABBY
 	db 23, ZUBAT
-	db 22, KRABBY
+	db 22, SEEL
 	db 24, KRABBY
 	db 25, GOLBAT
 	db 24, GOLBAT
@@ -945,7 +945,7 @@ JohtoGrassWildMons:
 	; nite
 	db 22, KRABBY
 	db 23, ZUBAT
-	db 22, KRABBY
+	db 22, SEEL
 	db 24, KRABBY
 	db 25, GOLBAT
 	db 24, GOLBAT
@@ -971,7 +971,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	db 24, SEEL
 	; nite
-	db 22, KRABBY
+	db 22, SEEL
 	db 23, ZUBAT
 	db 22, KRABBY
 	db 24, KRABBY
@@ -1004,7 +1004,7 @@ JohtoGrassWildMons:
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, GOLBAT
-	db 24, GOLBAT
+	db 24, SEEL
 	db 24, GOLBAT
 	end_grass_wildmons
 
