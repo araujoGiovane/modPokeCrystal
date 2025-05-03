@@ -1,0 +1,156 @@
+FALKNER
+DODUO 7
+    PECK            ; LV 1
+    FLAIL           ; EGG
+    STEEL WING      ; TM
+    MUD-SLAP        ; TM
+
+FARFETCH'D 7
+    GUST            ; EGG
+    SWIFT           ; TM
+    REST            ; TM
+    SNORE           ; TM
+
+GLIGAR 7
+    POISON STING    ; LV 1
+    METAL CLAW      ; EGG
+    SANDSTORM       ; TM
+    DETECT          ; TM
+
+SPEAROW 7
+    PECK            ; LV 1
+    HIDDEN POWER    ; TM
+    QUICK ATTACK    ; EGG
+    STEEL WING      ; TM
+
+HOOTHOOT 7
+    TACKLE          ; LV 1
+    STEEL WING      ; TM
+    GROWL           ; LV 1
+    WHIRLWIND       ; EGG
+
+PIDGEY 9
+    GUST            ; LV 9
+    MUD-SLAP        ; TM
+    STEEL WING      ; TM
+    HIDDEN POWER    ; TM
+
+
+
+
+
+BUGSY
+PINSIR 14
+    FURY CUTTER     ; TM
+    HEADBUTT        ; TM
+    REST            ; TM
+    SNORE           ; TM
+
+BUTTERFREE 14
+    PSYCHIC         ; TM
+    HIDDEN POWER    ; TM
+    STUN SPORE      ; LV 14
+    POISON POWDER   ; LV 13
+
+LEDYBA 14
+    LIGHT SCREEN    ; EGG
+    THIEF           ; TM
+    THUNDERPUNCH    ; TM
+    ICE PUNCH       ; TM
+
+PINECO 14
+    SELFDESTRUCT    ; LV 8
+    REFLECT         ; EGG
+    HEADBUTT        ; TM
+    ROLLOUT         ; TM
+
+YANMA 14
+    LEECH LIFE      ; EGG
+    FLASH           ; HM
+    HEADBUTT        ; TM
+    FORESIGHT       ; LV 1
+
+
+SCYTHER 16
+    FURY CUTTER     ; TM
+    REVERSAL        ; EGG
+    STEEL WING      ; TM
+    HIDDEN POWER    ; TM
+
+
+
+WHITNEY
+SMEARGLE 18
+    SPORE           ; SKETCH
+    BATON PASS      ; SKETCH
+    AGILITY         ; SKETCH
+    ENCORE          ; SKETCH
+
+FURRET 18
+    SLEEP TALK      ; TM
+    REST            ; TM
+    REVERSAL        ; EGG
+    HEADBUTT        ; TM
+
+TOGETIC 18
+    ATTRACT         ; TM
+    CHARM           ; LV 1 (PRE)
+    METRONOME       ; LV 7 (PRE)
+    FLAMETHROWER    ; MOVE TUTOR
+
+STANTLER 18
+    EARTHQUAKE      ; TM
+    HEADBUTT        ; TM
+    REFLECT         ; EGG
+    HYPNOSIS        ; LV 15
+
+AIPOM 18
+    COUNTER         ; EGG
+    ATTRACT         ; TM
+    ICE PUNCH       ; TM
+    STRENGTH        ; HM
+
+MILTANK 20
+    ROLLOUT         ; TM
+    ATTRACT         ; TM
+    MILK DRINK      ; LV 19
+    STOMP           ; LV 13
+
+
+MORTY
+GENGAR 25
+    HYPNOSIS        ; LV 1 (PRE)
+    SHADOW BALL     ; TM
+    MEAN LOOK       ; LV 13 (PRE)
+    DREAM EATER     ; TM
+
+HAUNTER 24
+    HYPNOSIS        ; LV 1 (PRE)
+    SHADOW BALL     ; TM
+    NIGHTMARE       ; TM
+    THUNDERBOLT     ; MOVE TUTOR
+
+GASTLY 23
+    PERISH SONG     ; EGG
+    MEAN LOOK       ; LV 13
+    DOUBLE TEAM     ; TM
+    SWAGGER         ; TM
+
+MISDREAVUS 23
+    SHADOW BALL     ; TM
+    PSYCHIC         ; TM
+    THUNDERBOLT     ; MOVE TUTOR
+    DESTINY BOND    ; EGG
+
+MISDREAVUS 23
+    CONFUSE RAY     ; LV 12
+    DESTINY BOND    ; EGG
+    SHADOW BALL     ; TM
+    MEAN LOOK       ; LV 19
+
+MISDREAVUS 23
+    MEAN LOOK       ; LV 19
+    CONFUSE RAY     ; LV 12
+    THUNDERBOLT     ; MOVE TUTOR
+    SHADOW BALL     ; TM
+
