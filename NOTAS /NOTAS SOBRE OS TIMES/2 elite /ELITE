@@ -1,0 +1,161 @@
+
+
+
+MÁSCARA
+NATU 50
+    DRILL PECK     ; EGG
+    PSYCHIC        ; TM
+    CONFUSE RAY    ; LV 19
+    DOUBLE TEAM    ; TM
+
+SLOWKING 49
+    REST           ; TM
+    AMNESIA        ; LV 43 (PRE)
+    PSYCHIC        ; TM
+    ICE BEAM       ; MOVE TUTOR
+
+SLOWKING 49
+    SWAGGER        ; TM
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    EARTHQUAKE     ; TM
+
+GIRAFARIG 49
+    PSYCHIC        ; TM
+    STOMP          ; LV 17
+    SHADOW BALL    ; TM
+    THUNDERBOLT    ; MOVE TUTOR
+
+JYNX 48
+    LOVELY KISS    ; LV 9
+    ICY WIND       ; TM
+    PSYCHIC        ; TM
+    ICE BEAM       ; MOVE TUTOR
+
+HYPNO 48
+    PSYCHIC        ; TM
+    HYPNOSIS       ; LV 1 (PRE)
+    NIGHTMARE      ; TM
+    SHADOW BALL    ; TM
+
+
+
+
+
+KOGA
+CROBAT 51
+    WING ATTACK     ; LV 27 (PRE)
+    TOXIC           ; TM
+    CONFUSE RAY     ; LV 19 (PRE)
+    DOUBLE TEAM     ; TM
+
+MUK 50
+    SLUDGE BOMB     ; TM
+    GIGA DRAIN      ; TM
+    ACID ARMOR      ; LV 40 (PRE)
+    MINIMIZE        ; LV 23 (PRE)
+
+WEEZING 50
+    SLUDGE BOMB     ; TM
+    EXPLOSION       ; LV 41 (PRE)
+    PAIN SPLIT      ; EGG
+    DESTINY BOND    ; LV 45 (PRE)
+
+ARIADOS 50
+    AGILITY         ; LV 45 (PRE)
+    DOUBLE TEAM     ; TM
+    BATON PASS      ; EGG
+    SLUDGE BOMB     ; TM
+
+NIDOKING 49
+    SHADOW BALL     ; TM
+    EARTHQUAKE      ; TM
+    AMNESIA         ; EGG
+    THUNDERBOLT     ; MOVE TUTOR
+
+TENTACRUEL 49
+    MIRROR COAT     ; EGG
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    GIGA DRAIN      ; TM
+
+
+
+
+BRUNO
+HITMONTOP 50
+    HI JUMP KICK    ; EGG
+    SLEEP TALK      ; TM
+    REST            ; TM
+    MUD-SLAP        ; TM
+
+HITMONTOP 50
+    MACH PUNCH      ; EGG
+    HIDDEN POWER    ; TM
+    CURSE           ; TM
+    DOUBLE TEAM     ; TM
+
+HITMONTOP 51
+    HI JUMP KICK    ; EGG
+    HEADBUTT        ; TM
+    CURSE           ; TM
+    MUD-SLAP        ; TM
+
+HITMONCHAN 51
+    MACH PUNCH      ; LV 32
+    HI JUMP KICK    ; EGG
+    CURSE           ; TM
+    MUD-SLAP        ; TM
+
+HITMONLEE 51
+    HI JUMP KICK    ; LV 26
+    HIDDEN POWER    ; TM
+    MUD-SLAP        ; TM
+    ATTRACT         ; TM
+
+MACHAMP 52
+    CROSS CHOP      ; LV 37 (PRE)
+    VITAL THROW     ; LV 31 (PRE)
+    EARTHQUAKE      ; TM
+    CURSE           ; TM
+
+
+
+CAPIVARA
+UMBREON 52
+    CHARM           ; EGG
+    TOXIC           ; TM
+    MOONLIGHT       ; LV 52
+    PURSUIT         ; LV 19
+
+UMBREON 52
+    CONFUSE RAY     ; LV 30
+    MEAN LOOK       ; LV 42
+    TOXIC           ; TM
+    MOONLIGHT       ; LV 52
+
+MURKROW 51
+    DRILL PECK      ; EGG
+    FAINT ATTACK    ; LV 31
+    STEEL WING      ; TM
+    MUD-SLAP        ; TM
+
+MURKROW 51
+    FAINT ATTACK    ; LV 31
+    DRILL PECK      ; EGG
+    ICY WIND        ; TM
+    HIDDEN POWER    ; TM
+
+SNEASEL 51
+    SHADOW BALL     ; TM
+    ICE BEAM        ; MOVE TUTOR
+    SCREECH         ; LV 17
+    DOUBLE TEAM     ; TM
+
+HOUNDOOM 53
+    CRUNCH          ; LV 43 (PRE)
+    FLAMETHROWER    ; MOVE TUTOR
+    SOLARBEAM       ; TM
+    SUNNY DAY       ; TM
+
+
