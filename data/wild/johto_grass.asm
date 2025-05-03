@@ -212,7 +212,7 @@ JohtoGrassWildMons:
 	db 20, RATTATA
 	db 21, RATTATA
 	db 22, RATTATA
-	db 22, RATTATA
+	db 22, GASTLY
 	db 23, RATTATA
 	db 24, RATTATA
 	db 24, RATTATA
@@ -220,8 +220,8 @@ JohtoGrassWildMons:
 	db 20, RATTATA
 	db 21, RATTATA
 	db 22, RATTATA
-	db 22, RATTATA
-	db 23, RATTATA
+	db 21, GASTLY
+	db 22, GASTLY
 	db 24, RATTATA
 	db 24, RATTATA
 	; nite
@@ -237,7 +237,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons TIN_TOWER_8F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 20, RATTATA
+	db 21, GASTLY
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
@@ -248,7 +248,7 @@ JohtoGrassWildMons:
 	db 20, RATTATA
 	db 21, RATTATA
 	db 22, RATTATA
-	db 22, RATTATA
+	db 21, GASTLY
 	db 23, RATTATA
 	db 24, RATTATA
 	db 24, RATTATA
@@ -265,9 +265,9 @@ JohtoGrassWildMons:
 	def_grass_wildmons TIN_TOWER_9F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 20, RATTATA
-	db 21, RATTATA
-	db 22, RATTATA
+	db 20, GASTLY
+	db 21, GASTLY
+	db 22, RATATTA
 	db 22, RATTATA
 	db 23, RATTATA
 	db 24, RATTATA
@@ -276,9 +276,9 @@ JohtoGrassWildMons:
 	db 20, RATTATA
 	db 21, RATTATA
 	db 22, RATTATA
+	db 20, GASTLY
+	db 21, GASTLY
 	db 22, RATTATA
-	db 23, RATTATA
-	db 24, RATTATA
 	db 24, RATTATA
 	; nite
 	db 20, GASTLY
@@ -350,28 +350,28 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 12, NIDORAN_M
-	db 12, NIDORAN_F
+	db 12, PSYDUCK
 	db 14, LEDYBA
-	db 13, PIDGEY
+	db 13, SUNKERN
 	db 10, CATERPIE
 	db 10, WEEDLE
-	db 10, WEEDLE
+	db 10, SPINARAK
 	; day
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
 	db 14, SUNKERN
-	db 13, PIDGEY
+	db 13, LEDYBA
 	db 10, CATERPIE
 	db 10, WEEDLE
-	db 10, WEEDLE
+	db 10, SPINARAK
 	; nite
-	db 12, PSYDUCK
-	db 13, HOOTHOOT
+	db 12, NIDORAN_F
+	db 13, LEDYBA
 	db 14, SPINARAK
-	db 15, HOOTHOOT
+	db 15, SUNKERN
 	db 10, VENONAT
-	db 12, VENONAT
-	db 12, VENONAT
+	db 12, WEEDLE
+	db 12, CATERPIE
 	end_grass_wildmons
 
 	def_grass_wildmons RUINS_OF_ALPH_OUTSIDE
@@ -379,7 +379,7 @@ JohtoGrassWildMons:
 	; morn
 	db 20, NATU
 	db 22, NATU
-	db 18, NATU
+	db 22, WOOPER
 	db 24, NATU
 	db 20, SMEARGLE
 	db 22, SMEARGLE
@@ -388,12 +388,12 @@ JohtoGrassWildMons:
 	db 20, NATU
 	db 22, NATU
 	db 18, NATU
-	db 24, NATU
+	db 22, WOOPER
 	db 20, SMEARGLE
 	db 22, SMEARGLE
 	db 22, SMEARGLE
 	; nite
-	db 20, NATU
+	db 22, SMEARGLE
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
