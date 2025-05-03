@@ -13,7 +13,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 6, RATTATA
 	db 5, RATTATA
-	db 5, RATTATA
+	db 5, GASTLY
 	; day
 	db 3, RATTATA
 	db 4, RATTATA
@@ -21,12 +21,12 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 6, RATTATA
 	db 5, RATTATA
-	db 5, RATTATA
+	db 5, GASTLY
 	; nite
 	db 3, GASTLY
 	db 4, GASTLY
 	db 5, GASTLY
-	db 3, RATTATA
+	db 6, GASTLY
 	db 6, GASTLY
 	db 5, RATTATA
 	db 5, RATTATA
@@ -41,7 +41,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 6, RATTATA
 	db 5, RATTATA
-	db 5, RATTATA
+	db 4, GASTLY
 	; day
 	db 3, RATTATA
 	db 4, RATTATA
@@ -49,7 +49,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 6, RATTATA
 	db 5, RATTATA
-	db 5, RATTATA
+	db 6, GASTLY
 	; nite
 	db 3, GASTLY
 	db 4, GASTLY
@@ -63,7 +63,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons TIN_TOWER_2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 20, RATTATA
+	db 20, GASTLY
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
@@ -75,7 +75,7 @@ JohtoGrassWildMons:
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
-	db 23, RATTATA
+	db 23, GASTLY
 	db 24, RATTATA
 	db 24, RATTATA
 	; nite
@@ -95,12 +95,12 @@ JohtoGrassWildMons:
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
-	db 23, RATTATA
+	db 20, GASTLY
 	db 24, RATTATA
 	db 24, RATTATA
 	; day
 	db 20, RATTATA
-	db 21, RATTATA
+	db 20, GASTLY
 	db 22, RATTATA
 	db 22, RATTATA
 	db 23, RATTATA
@@ -125,9 +125,9 @@ JohtoGrassWildMons:
 	db 22, RATTATA
 	db 23, RATTATA
 	db 24, RATTATA
-	db 24, RATTATA
+	db 19, GASTLY
 	; day
-	db 20, RATTATA
+	db 21, GASTLY
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
@@ -151,8 +151,8 @@ JohtoGrassWildMons:
 	db 21, RATTATA
 	db 22, RATTATA
 	db 22, RATTATA
-	db 23, RATTATA
-	db 24, RATTATA
+	db 24, GASTLY
+	db 24, GASTLY
 	db 24, RATTATA
 	; day
 	db 20, RATTATA
@@ -160,8 +160,8 @@ JohtoGrassWildMons:
 	db 22, RATTATA
 	db 22, RATTATA
 	db 23, RATTATA
-	db 24, RATTATA
-	db 24, RATTATA
+	db 22, GASTLY
+	db 24, GASTLY
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
@@ -176,8 +176,8 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 20, RATTATA
-	db 21, RATTATA
-	db 22, RATTATA
+	db 24, GASTLY
+	db 22, GASTLY
 	db 22, RATTATA
 	db 23, RATTATA
 	db 24, RATTATA
@@ -186,8 +186,8 @@ JohtoGrassWildMons:
 	db 20, RATTATA
 	db 21, RATTATA
 	db 22, RATTATA
-	db 22, RATTATA
-	db 23, RATTATA
+	db 19, GASTLY
+	db 22, GASTLY
 	db 24, RATTATA
 	db 24, RATTATA
 	; nite
