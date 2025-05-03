@@ -1,0 +1,173 @@
+
+
+
+
+
+MISTY
+STARMIE 60
+    SURF           ; HM
+    RECOVER        ; LV 19 (PRE)
+    THUNDERBOLT    ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR
+
+CORSOLA 59
+    SURF           ; HM
+    ANCIENT POWER  ; LV 43
+    MIRROR COAT    ; LV 37
+    RECOVER        ; LV 19
+
+MANTINE 59
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    CONFUSE RAY    ; LV 49
+    AGILITY        ; LV 32
+
+GOLDUCK 59
+    SURF           ; HM
+    LIGHT SCREEN   ; EGG
+    ICE BEAM       ; MOVE TUTOR
+    REST           ; TM
+
+QUAGSIRE 59
+    SURF           ; HM
+    EARTHQUAKE     ; TM
+    CURSE          ; TM
+    ANCIENT POWER  ; EGG
+
+OMASTAR 59
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    DOUBLE TEAM    ; TM
+    REST           ; TM
+
+
+
+
+
+
+
+BROCK
+TYRANITAR 61
+    ANCIENT POWER  ; EGG
+    CRUNCH         ; LV 43 (PRE)
+    REST           ; TM
+    SLEEP TALK     ; TM
+
+GOLEM 60
+    EARTHQUAKE     ; TM
+    ROCK SLIDE     ; EGG
+    EXPLOSION      ; LV 41 (PRE)
+    HIDDEN POWER   ; TM
+
+SUDOWOODO 60
+    ROCK SLIDE     ; LV 28
+    EARTHQUAKE     ; TM
+    SANDSTORM      ; TM
+    SELF-DESTRUCT  ; EGG
+
+KABUTOPS 60
+    ANCIENT POWER  ; LV 55 (PRE)
+    SANDSTORM      ; TM
+    BLIZZARD       ; TM
+    PROTECT        ; TM
+
+AERODACTYL 60
+    ANCIENT POWER  ; LV 29
+    WING ATTACK    ; LV 1
+    STEEL WING     ; TM
+    SANDSTORM      ; TM
+
+SHUCKLE 60
+    ROLLOUT        ; TM
+    SANDSTORM      ; TM
+    DEFENSE CURL   ; TM
+    REST           ; TM
+
+
+
+
+
+
+
+VEIO DO FOGO
+MAGCARGO 61
+    FLAMETHROWER   ; MOVE TUTOR
+    ROCK SLIDE     ; LV 43 (PRE)
+    AMNESIA        ; LV 29 (PRE)
+    HIDDEN POWER   ; TM
+
+MAGCARGO 61
+    ACID ARMOR     ; EGG
+    FLAMETHROWER   ; TM
+    REST           ; TM
+    AMNESIA        ; LV 29 (PRE)
+
+MAGMAR 61
+    CONFUSE RAY    ; LV 43 (PRE)
+    FLAMETHROWER   ; MOVE TUTOR
+    CROSS CHOP     ; EGG
+    THUNDER PUNCH  ; TM
+
+ARCANINE 61
+    FLAMETHROWER   ; MOVE TUTOR
+    CRUNCH         ; EGG
+    SLEEP TALK     ; TM
+    REST           ; TM
+
+NINETAILS 61
+    FLAMETHROWER   ; MOVE TUTOR
+    CONFUSE RAY    ; LV 19 (PRE)
+    HYPNOSIS       ; EGG
+    HIDDEN POWER   ; TM
+
+RAPIDASH 62
+    HYPNOSIS       ; EGG
+    FLAMETHROWER   ; MOVE TUTOR
+    HIDDEN POWER   ; TM
+    DOUBLE TEAM    ; TM
+
+
+
+
+
+
+
+
+
+GARY
+PIDGEOTTO 63
+    WING ATTACK    ; LV 29 (PRE)
+    STEEL WING     ; TM
+    MUD SLAP       ; TM
+    HYPER BEAM     ; TM
+
+RYDON 63
+    EARTHQUAKE     ; TM
+    ROCK SLIDE     ; EGG
+    ICY WIND       ; TM
+    HIDDEN POWER   ; TM
+
+ALAKAZAM 63
+    PSYCHIC        ; TM
+    RECOVER        ; LV 26 (PRE)
+    DOUBLE TEAM    ; TM
+    ICE PUNCH      ; TM
+
+GYARADOS 63
+    FLAIL          ; LV 30 (PRE)
+    SURF           ; HM
+    ICY WIND       ; TM
+    HIDDEN POWER   ; TM
+
+EXEGUTOR 63
+    SLEEP POWDER   ; LV 37 (PRE)
+    GIGA DRAIN     ; TM
+    PSYCHIC        ; TM
+    DOUBLE TEAM    ; TM
+
+ARCANINE 63
+    FLAMETHROWER   ; MOVE TUTOR
+    EXTREME SPEED  ; LV 50
+    HIDDEN POWER   ; TM
+    ATTRACT        ; TM
+
