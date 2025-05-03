@@ -1,0 +1,158 @@
+
+
+
+SURGE
+ELECTABUZZ 56
+    THUNDERBOLT    ; MOVE TUTOR
+    CROSS CHOP     ; EGG
+    ICE PUNCH      ; TM
+    DOUBLE TEAM    ; TM
+
+AMPHAROS 55
+    THUNDERBOLT    ; MOVE TUTOR
+    REFLECT        ; EGG
+    REST           ; TM
+    HIDDEN POWER   ; TM
+
+LANTURN 55
+    SURF           ; HM
+    THUNDERBOLT    ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR
+    CONFUSE RAY    ; LV 29 (PRE)
+
+LANTURN 55
+    SURF           ; HM
+    THUNDERBOLT    ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR
+    RAIN DANCE     ; TM
+
+ELECTRODE 55
+    THUNDERBOLT    ; MOVE TUTOR
+    DOUBLE TEAM    ; TM
+    HIDDEN POWER   ; TM
+    EXPLOSION      ; LV 39 (PRE)
+
+RAICHU 55
+    SWEET KISS     ; LV 1 (PRE)
+    DOUBLE TEAM    ; TM
+    THUNDERBOLT    ; MOVE TUTOR
+    CHARM          ; LV 1 (PRE)
+
+
+
+
+SABRINA
+ALAKAZAM 57
+    PSYCHIC        ; TM
+    RECOVER        ; LV 26 (PRE)
+    THUNDER PUNCH  ; TM
+    ICE PUNCH      ; TM
+
+MR MIME 56
+    PSYCHIC        ; TM
+    THUNDERBOLT    ; MOVE TUTOR
+    BARRIER        ; LV 1
+    BATON PASS     ; LV 41
+
+UNOWN 56  ; LETRA S
+    HIDDEN POWER   ; LV 1
+
+WOBBUFFET 56
+    COUNTER        ; LV 1
+    MIRROR COAT    ; LV 1
+    SAFE GUARD     ; LV 1
+    DESTINY BOND   ; LV 1
+
+EXEGGUTOR 56
+    SYNTHESIS      ; EGG
+    PSYCHIC        ; TM
+    SLEEP POWDER   ; LV 37 (PRE)
+    NIGHTMARE      ; TM
+
+EXECUTOR 56
+    PSYCHIC        ; TM
+    SLEEP POWDER   ; LV 37 (PRE)
+    ANCIENT POWER  ; EGG
+    DREAM EATER    ; TM
+
+
+
+
+ERIKA
+JUMPLUFF 57
+    GIGA DRAIN     ; TM
+    SLEEP POWDER   ; LV 17 (PRE)
+    LEECH SEED     ; LV 20 (PRE)
+    ENCORE         ; EGG
+
+SUNFLORA 57
+    GIGA DRAIN     ; TM
+    SLUDGE BOMB    ; TM
+    SYNTHESIS      ; LV 31 (PRE)
+    HIDDEN POWER   ; TM
+
+TANGELA 57
+    GIGA DRAIN     ; TM
+    SLUDGE BOMB    ; TM
+    AMNESIA        ; EGG
+    REST           ; TM
+
+PARASECT 57
+    SPORE          ; LV 25 (PRE)
+    GIGA DRAIN     ; TM
+    SLUDGE BOMB    ; TM
+    LIGHT SCREEN   ; EGG
+
+BELLOSSOM 58
+    SLEEP POWDER   ; LV 18 (PRE)
+    GIGA DRAIN     ; TM
+    SYNTHESIS      ; EGG
+    SLUDGE BOMB    ; TM
+
+VICTREEBEL 58
+    SWORD DANCE    ; EGG
+    SLUDGE BOMB    ; TM
+    GIGA DRAIN     ; TM
+    SLEEP POWDER   ; LV 15 (PRE)
+
+
+
+
+
+FILHA DO KOGA
+VENOMOTH 59
+    TOXIC          ; TM
+    SLUDGE BOMB    ; TM
+    PSYCHIC        ; TM
+    DOUBLE TEAM    ; TM
+
+BEEDRILL 58
+    SLUDGE BOMB    ; TM
+    DOUBLE TEAM    ; TM
+    AGILITY        ; LV 40
+    HIDDEN POWER   ; TM
+
+ARbok 58
+    SLUDGE BOMB    ; TM
+    EARTHQUAKE     ; TM
+    CRUNCH         ; EGG
+    GLARE          ; LV 23 (PRE)
+
+QWILFISH 58
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    SLUDGE BOMB    ; TM
+    SPIKES         ; LV 1
+
+QWILFISH 58
+    HYDRO PUMP     ; LV 46
+    TOXIC          ; TM
+    ICE BEAM       ; MOVE TUTOR
+    SPIKES         ; LV 1
+
+NIDOQUEEN 58
+    HIDDEN POWER   ; TM
+    EARTHQUAKE     ; TM
+    TOXIC          ; TM
+    SURF           ; HM
+
