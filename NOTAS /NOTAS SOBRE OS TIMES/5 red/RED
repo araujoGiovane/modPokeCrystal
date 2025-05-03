@@ -1,23 +1,9 @@
-
-
 RED
-BLASTOISE 77
-    SURF           ; HM
-    RAIN DANCE     ; TM
-    BLIZZARD       ; TM
-    MIRROR COAT    ; EGG
-
-CHARIZARD 77
-    FLAMETHROWER   ; MOVE TUTOR
-    WING ATTACK    ; LV 36 (PRE)
-    EARTHQUAKE     ; TM
-    BELLY DRUM     ; EGG
-
-VENUSAUR 77
-    GIGA DRAIN     ; TM
-    SYNTHESIS      ; LV 39 (PRE)
-    SLEEP POWDER   ; LV 15 (PRE)
-    LEECH SEED     ; LV 7 (PRE)
+PIKACHU 81
+    THUNDERBOLT    ; MOVE TUTOR
+    SURF           ; EVENT (HM)
+    DOUBLE TEAM    ; TM
+    HEADBUTT       ; TM
 
 ESPEON 73
     MUD-SLAP       ; TM
@@ -25,14 +11,25 @@ ESPEON 73
     CHARM          ; EGG
     MORNING SUN    ; LV 52
 
-SNORLAX 75 (nível padrão)
+SNORLAX 75
     CURSE          ; TM
     REST           ; TM
     EARTHQUAKE     ; TM
     SNORE          ; TM
+VENUSAUR 77
+    GIGA DRAIN     ; TM
+    SYNTHESIS      ; LV 39 (PRE)
+    SLEEP POWDER   ; LV 15 (PRE)
+    LEECH SEED     ; LV 7 (PRE)
 
-PIKACHU 81 (nível padrão)
-    THUNDERBOLT    ; MOVE TUTOR
-    SURF           ; EVENT (HM)
-    DOUBLE TEAM    ; TM
-    HEADBUTT       ; TM
+CHARIZARD 77
+    FLAMETHROWER   ; MOVE TUTOR
+    WING ATTACK    ; LV 36 (PRE)
+    EARTHQUAKE     ; TM
+    BELLY DRUM     ; EGG
+
+BLASTOISE 77
+    SURF           ; HM
+    RAIN DANCE     ; TM
+    BLIZZARD       ; TM
+    MIRROR COAT    ; EGG
