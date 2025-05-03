@@ -1,0 +1,109 @@
+RIVAL1
+STARTER 5
+
+-----------------------------------------------------------------------------------------
+
+RIVAL2
+GASTLY 12
+    HYPNOSIS        ; LV 1
+    LICK            ; LV 1
+    SPITE           ; LV 8
+    NO_MOVE         ; SEM MOVE POR ORA
+
+ZUBAT 14
+    LEECH LIFE      ; LV 1
+    SUPERSONIC      ; LV 6
+    BITE            ; LV 12
+    NO_MOVE         ; SEM MOVE POR ORA
+
+; STARTER 18 ; DEVERIA SER 16, MAS PRO 3 INICIAIS ESTAREM NA SEGUNDA FORMA, DEIXAREI NO 18
+
+-----------------------------------------------------------------------------------------
+
+RIVAL3
+HAUNTER 25         ; ERA PRA SER NÍVEL 20, MAS NÃO HÁ HAUNTER NO 20
+    LICK            ; LV 1 (PRE)
+    HYPNOSIS        ; LV 1 (PRE)
+    MEAN LOOK       ; LV 13 (PRE)
+    CURSE           ; LV 16 (PRE)
+
+MAGNEMITE 18
+    TACKLE          ; LV 1
+    THUNDERSHOCK    ; LV 6
+    SUPERSONIC      ; LV 11
+    SONICBOOM       ; LV 16
+
+ZUBAT 20
+    LEECH LIFE      ; LV 1
+    ATTRACT         ; TM (SE FOR NO PONTO ONDE É POSSÍVEL TÊ-LO)
+    BITE            ; LV 12
+    CONFUSE RAY     ; LV 19
+
+; STARTER 22
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+RIVAL4
+GOLBAT 30
+    ATTRACT         ; TM (É PROVÁVEL QUE JÁ ESTEJA DISPONÍVEL NESSE PONTO, PRECISA SER VERIFICADO DURANTE O JOGO)
+    BITE            ; LV 12 (PRE)
+    CONFUSE RAY     ; LV 19 (PRE)
+    WING ATTACK     ; LV 27 (PRE)
+
+MAGNEMITE 28
+    HIDDEN POWER    ; TM (SE ESTIVER DISPONÍVEL)
+    THUNDERSHOCK    ; LV 6
+    SONICBOOM       ; LV 16
+    THUNDER WAVE    ; LV 21
+
+HAUNTER 31         ; ERA PRA SER 30, MAS ELE SÓ APRENDE CONFUSE RAY NO 31
+    CONFUSE RAY     ; LV 31
+    HYPNOSIS        ; LV 1 (PRE)
+    MEAN LOOK       ; LV 13 (PRE)
+    CURSE           ; LV 16 (PRE)
+
+SNEASEL 32
+    SHADOW BALL     ; TM
+    SCREECH         ; LV 17
+    ICY WIND        ; TM
+    IRON TAIL       ; TM
+
+; STARTER 36 ; DEVERIA SER 32, MAS VOU DEIXAR 36 PROS 3 INICIAIS JÁ ESTAREM NA ÚLTIMA FORMA
+
+-----------------------------------------------------------------------------------------
+
+RIVAL5
+SNEASEL 34
+    SHADOW BALL     ; TM
+    SCREECH         ; LV 17
+    ICY WIND        ; TM
+    IRON TAIL       ; TM
+
+GOLBAT 36
+    ATTRACT         ; TM
+    BITE            ; LV 12 (PRE)
+    CONFUSE RAY     ; LV 19 (PRE)
+    WING ATTACK     ; LV 27 (PRE)
+
+MAGNETON 35
+    THUNDERBOLT     ; MV
+    HIDDEN POWER    ; TM
+    THUNDER WAVE    ; LV 21 (PRE)
+    TRI ATTACK      ; LV 35
+
+HAUNTER 35
+    CONFUSE RAY     ; LV 31
+    HYPNOSIS        ; LV 1 (PRE)
+    MEAN LOOK       ; LV 13 (PRE)
+    CURSE           ; LV 16 (PRE)
+
+KADABRA 35
+    PSYBEAM         ; LV 21
+    RECOVER         ; LV 26
+    FIRE PUNCH      ; TM
+    ICE PUNCH       ; TM
+
+; STARTER 38
+
+
