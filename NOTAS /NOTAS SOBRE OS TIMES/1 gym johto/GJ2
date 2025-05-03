@@ -1,0 +1,158 @@
+
+
+
+
+CHUCK
+POLIWRATH 30
+    DYNAMIC PUNCH   ; TM
+    MIND READER     ; EGG
+    SURF            ; HM
+    EARTHQUAKE      ; TM
+
+PRIMEAPE 27
+    KARATE CHOP     ; LV 15 (PRE)
+    SWAGGER         ; TM
+    PSY UP          ; TM
+    ROCK SLIDE      ; EGG
+
+PRIMEAPE 27
+    KARATE CHOP     ; LV 15
+    THUNDER         ; TM
+    COUNTER         ; EGG
+    STRENGTH        ; HM
+
+HERACROSS 27
+    COUNTER         ; LV 27
+    ENDURE          ; LV 12
+    FLAIL           ; EGG
+    EARTHQUAKE      ; TM
+
+HERACROSS 27
+    DOUBLE TEAM     ; TM
+    ENDURE          ; LV 12
+    FLAIL           ; EGG
+    HIDDEN POWER    ; TM
+
+HERACROSS 27
+    HIDDEN POWER    ; TM
+    COUNTER         ; LV 27
+    HORN ATTACK     ; LV 6
+    EARTHQUAKE      ; TM
+
+
+
+JASMINE
+STEELIX 33
+    IRON TAIL       ; TM
+    EARTHQUAKE      ; TM
+    ROCK SLIDE      ; EGG
+    SANDSTORM       ; TM
+
+MAGNETITE 30
+    THUNDERBOLT     ; MOVE TUTOR
+    THUNDER WAVE    ; LV 21 (PRE)
+    FLASH           ; HM
+    HIDDEN POWER    ; TM
+
+MAGNETITE 30
+    FLASH           ; HM
+    THUNDER         ; TM
+    RAIN DANCE      ; TM
+    DOUBLE TEAM     ; TM
+
+SKARMORY 30
+    DRILL PECK      ; EGG
+    STEEL WING      ; TM
+    SAND ATTACK     ; LV 13
+    SANDSTORM       ; TM
+
+SKARMORY 30
+    DRILL PECK      ; EGG
+    STEEL WING      ; TM
+    SWAGGER         ; TM
+    SANDSTORM       ; TM
+
+SKARMORY 30
+    SANDSTORM       ; TM
+    PROTECT         ; TM
+    STEEL WING      ; TM
+    DRILL PECK      ; EGG
+
+
+
+VEIO DO GELO
+DEWGONG 32
+    ICE BEAM        ; MOVE TUTOR
+    SURF            ; HM
+    DOUBLE TEAM     ; TM
+    REST            ; TM
+
+DELIBIRD 32
+    ICE BEAM        ; MOVE TUTOR
+    ICY WIND        ; TM
+    REST            ; TM
+    HIDDEN POWER    ; TM
+
+LAPRAS 32
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    REST            ; TM
+    CONFUSE RAY     ; LV 22
+
+CLOYSTER 32
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    REST            ; TM
+    SLEEP TALK      ; TM
+
+SNEASEL 33
+    BLIZZARD        ; TM
+    DOUBLE TEAM     ; TM
+    THIEF           ; TM
+    STRENGTH        ; HM
+
+PILOSWINE 35
+    EARTHQUAKE      ; TM
+    ICY WIND        ; TM
+    ANCIENT POWER   ; EGG
+    REST            ; TM
+
+
+
+
+LANÇA
+KINGDRA 40
+    SURF            ; HM
+    ICE BEAM        ; MOVE TUTOR
+    DRAGON BREATH   ; TM
+    REST            ; TM
+
+DRATINI 39
+    THUNDER WAVE    ; LV 8
+    DOUBLE TEAM     ; TM
+    LIGHT SCREEN    ; EGG
+    DRAGON RAGE     ; LV 22
+
+DRAGONAIR 37
+    THUNDER WAVE    ; LV 8
+    DRAGON BREATH   ; TM
+    LIGHT SCREEN    ; EGG
+    SURF            ; HM
+
+DRAGONAIR 37
+    THUNDER WAVE    ; LV 8
+    DRAGON BREATH   ; TM
+    DOUBLE TEAM     ; TM
+    THUNDERBOLT     ; MOVE TUTOR
+
+DRAGONAIR 37
+    THUNDER WAVE    ; LV 8
+    DRAGON BREATH   ; TM
+    LIGHT SCREEN    ; EGG
+    ICE BEAM        ; MOVE TUTOR
+
+DRAGONAIR 37
+    THUNDER WAVE    ; LV 8
+    DRAGON BREATH   ; TM
+    DOUBLE TEAM     ; TM
+    FLAMETHROWER    ; MOVE TUTOR
