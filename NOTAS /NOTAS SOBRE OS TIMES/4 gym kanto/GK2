@@ -1,32 +1,21 @@
-
-
-
-
-
 MISTY
-STARMIE 60
-    SURF           ; HM
-    RECOVER        ; LV 19 (PRE)
-    THUNDERBOLT    ; MOVE TUTOR
-    ICE BEAM       ; MOVE TUTOR
-
 CORSOLA 59
     SURF           ; HM
     ANCIENT POWER  ; LV 43
     MIRROR COAT    ; LV 37
     RECOVER        ; LV 19
 
-MANTINE 59
-    SURF           ; HM
-    ICE BEAM       ; MOVE TUTOR
-    CONFUSE RAY    ; LV 49
-    AGILITY        ; LV 32
-
 GOLDUCK 59
     SURF           ; HM
     LIGHT SCREEN   ; EGG
     ICE BEAM       ; MOVE TUTOR
     REST           ; TM
+
+MANTINE 59
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
+    CONFUSE RAY    ; LV 49
+    AGILITY        ; LV 32
 
 QUAGSIRE 59
     SURF           ; HM
@@ -40,19 +29,17 @@ OMASTAR 59
     DOUBLE TEAM    ; TM
     REST           ; TM
 
-
+STARMIE 60
+    SURF           ; HM
+    RECOVER        ; LV 19 (PRE)
+    THUNDERBOLT    ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR
 
 
 
 
 
 BROCK
-TYRANITAR 61
-    ANCIENT POWER  ; EGG
-    CRUNCH         ; LV 43 (PRE)
-    REST           ; TM
-    SLEEP TALK     ; TM
-
 GOLEM 60
     EARTHQUAKE     ; TM
     ROCK SLIDE     ; EGG
@@ -83,13 +70,15 @@ SHUCKLE 60
     DEFENSE CURL   ; TM
     REST           ; TM
 
+TYRANITAR 61
+    ANCIENT POWER  ; EGG
+    CRUNCH         ; LV 43 (PRE)
+    REST           ; TM
+    SLEEP TALK     ; TM
 
 
 
-
-
-
-VEIO DO FOGO
+BLAINE
 MAGCARGO 61
     FLAMETHROWER   ; MOVE TUTOR
     ROCK SLIDE     ; LV 43 (PRE)
@@ -129,36 +118,7 @@ RAPIDASH 62
 
 
 
-
-
-
-
-
-GARY
-PIDGEOTTO 63
-    WING ATTACK    ; LV 29 (PRE)
-    STEEL WING     ; TM
-    MUD SLAP       ; TM
-    HYPER BEAM     ; TM
-
-RYDON 63
-    EARTHQUAKE     ; TM
-    ROCK SLIDE     ; EGG
-    ICY WIND       ; TM
-    HIDDEN POWER   ; TM
-
-ALAKAZAM 63
-    PSYCHIC        ; TM
-    RECOVER        ; LV 26 (PRE)
-    DOUBLE TEAM    ; TM
-    ICE PUNCH      ; TM
-
-GYARADOS 63
-    FLAIL          ; LV 30 (PRE)
-    SURF           ; HM
-    ICY WIND       ; TM
-    HIDDEN POWER   ; TM
-
+BLUE
 EXEGUTOR 63
     SLEEP POWDER   ; LV 37 (PRE)
     GIGA DRAIN     ; TM
@@ -170,4 +130,28 @@ ARCANINE 63
     EXTREME SPEED  ; LV 50
     HIDDEN POWER   ; TM
     ATTRACT        ; TM
+
+GYARADOS 63
+    FLAIL          ; LV 30 (PRE)
+    SURF           ; HM
+    ICY WIND       ; TM
+    HIDDEN POWER   ; TM
+
+ALAKAZAM 63
+    PSYCHIC        ; TM
+    RECOVER        ; LV 26 (PRE)
+    DOUBLE TEAM    ; TM
+    ICE PUNCH      ; TM
+
+PIDGEOTTO 63
+    WING ATTACK    ; LV 29 (PRE)
+    STEEL WING     ; TM
+    MUD SLAP       ; TM
+    HYPER BEAM     ; TM
+
+RYDON 63
+    EARTHQUAKE     ; TM
+    ROCK SLIDE     ; EGG
+    ICY WIND       ; TM
+    HIDDEN POWER   ; TM
 
