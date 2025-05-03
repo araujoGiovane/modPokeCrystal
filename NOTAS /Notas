@@ -73,7 +73,33 @@
 
 
 
-5.1.4 SEÇÃO 4____[ ]
+5.1.4 SEÇÃO 4____[OK]
+    SEMPRE Q POSSIVEL, VOU PRIORIZAR A PRE EVOLUÇÃO
+      	db 14, RATTATA
+	    db 13, ZUBAT
+	    db 14, MACHOP
+	    db 13, MARILL
+	    db 14, GEODUDE
+	    db 16, RATICATE
+	    db 16, RATICATE
+	    ; day
+	    db 14, RATTATA
+	    db 13, ZUBAT
+	    db 14, MACHOP
+	    db 13, GOLBAT
+	    db 14, GEODUDE
+	    db 16, MARILL
+	    db 16, RATICATE
+	    ; nite
+	    db 14, RATTATA
+	    db 13, ZUBAT
+	    db 14, MARILL
+	    db 13, GOLBAT
+	    db 14, GEODUDE
+	    db 16, MACHOP
+	    db 16, RATICATE
+	    end_grass_wildmons
+    
 5.1.5 SEÇÃO 5____[ ]
 5.1.6 SEÇÃO 6____[ ]
 5.1.7 SEÇÃO 7____[ ]
