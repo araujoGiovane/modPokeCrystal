@@ -1035,7 +1035,7 @@ JohtoGrassWildMons:
 	; nite
 	db 23, KRABBY
 	db 24, ZUBAT
-	db 23, KRABBY
+	db 23, SEEL
 	db 25, KRABBY
 	db 26, GOLBAT
 	db 25, GOLBAT
@@ -1064,7 +1064,7 @@ JohtoGrassWildMons:
 	db 24, KRABBY
 	db 25, ZUBAT
 	db 24, KRABBY
-	db 26, KRABBY
+	db 26, SEEL
 	db 27, GOLBAT
 	db 26, GOLBAT
 	db 26, GOLBAT
@@ -1089,7 +1089,7 @@ JohtoGrassWildMons:
 	db 27, SEEL
 	db 27, SEEL
 	; nite
-	db 25, KRABBY
+	db 25, SEEL
 	db 26, ZUBAT
 	db 25, KRABBY
 	db 27, KRABBY
@@ -1120,9 +1120,9 @@ JohtoGrassWildMons:
 	db 43, GRAVELER
 	db 44, GOLBAT
 	db 42, ONIX
-	db 42, GOLBAT
-	db 45, GOLDUCK
-	db 46, GOLBAT
+	db 44, URSARING
+	db 45, MAGMAR
+	db 20, LARVITAR
 	db 46, GOLBAT
 	end_grass_wildmons
 
@@ -1132,24 +1132,24 @@ JohtoGrassWildMons:
 	db 48, GOLBAT
 	db 48, MACHOKE
 	db 47, URSARING
-	db 46, PARASECT
-	db 48, PARASECT
+	db 48, GOLDUCK
+	db 45, MISDREAVUS
 	db 15, LARVITAR
 	db 20, LARVITAR
 	; day
 	db 48, GOLBAT
 	db 48, MACHOKE
 	db 47, URSARING
-	db 46, PARASECT
-	db 48, PARASECT
+	db 48, GOLDUCK
+	db 45, MISDREAVUS
 	db 15, LARVITAR
 	db 20, LARVITAR
 	; nite
-	db 48, GOLBAT
+	db 48, MACHOKE
 	db 48, GOLDUCK
 	db 46, GOLBAT
-	db 46, PARASECT
-	db 48, PARASECT
+	db 47, URSARING
+	db 15, LARVITAR
 	db 45, MISDREAVUS
 	db 45, MISDREAVUS
 	end_grass_wildmons
@@ -1162,7 +1162,7 @@ JohtoGrassWildMons:
 	db 48, GRAVELER
 	db 50, URSARING
 	db 20, LARVITAR
-	db 15, LARVITAR
+	db 45, GOLDUCK
 	db 20, PUPITAR
 	; day
 	db 51, GOLBAT
@@ -1171,15 +1171,15 @@ JohtoGrassWildMons:
 	db 50, URSARING
 	db 20, LARVITAR
 	db 15, LARVITAR
-	db 20, PUPITAR
+	db 45, GOLDUCK
 	; nite
 	db 51, GOLBAT
 	db 48, ONIX
 	db 48, GRAVELER
-	db 49, GOLBAT
+	db 50, URSARING
 	db 45, GOLDUCK
 	db 53, GOLBAT
-	db 53, GOLBAT
+	db 20, PUPITAR
 	end_grass_wildmons
 
 	def_grass_wildmons SILVER_CAVE_ITEM_ROOMS
@@ -1189,14 +1189,14 @@ JohtoGrassWildMons:
 	db 46, GOLBAT
 	db 50, GOLBAT
 	db 46, PARASECT
-	db 48, PARASECT
+	db 45, MISDREAVUS
 	db 50, PARASECT
 	db 52, PARASECT
 	; day
 	db 48, GOLBAT
 	db 46, GOLBAT
 	db 50, GOLBAT
-	db 46, PARASECT
+	db 45, MISDREAVUS
 	db 48, PARASECT
 	db 50, PARASECT
 	db 52, PARASECT
