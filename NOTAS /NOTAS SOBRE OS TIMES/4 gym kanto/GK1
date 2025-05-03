@@ -1,12 +1,9 @@
-
-
-
 SURGE
-ELECTABUZZ 56
-    THUNDERBOLT    ; MOVE TUTOR
-    CROSS CHOP     ; EGG
-    ICE PUNCH      ; TM
+RAICHU 55
+    SWEET KISS     ; LV 1 (PRE)
     DOUBLE TEAM    ; TM
+    THUNDERBOLT    ; MOVE TUTOR
+    CHARM          ; LV 1 (PRE)
 
 AMPHAROS 55
     THUNDERBOLT    ; MOVE TUTOR
@@ -32,31 +29,16 @@ ELECTRODE 55
     HIDDEN POWER   ; TM
     EXPLOSION      ; LV 39 (PRE)
 
-RAICHU 55
-    SWEET KISS     ; LV 1 (PRE)
-    DOUBLE TEAM    ; TM
+ELECTABUZZ 56
     THUNDERBOLT    ; MOVE TUTOR
-    CHARM          ; LV 1 (PRE)
+    CROSS CHOP     ; EGG
+    ICE PUNCH      ; TM
+    DOUBLE TEAM    ; TM
 
 
 
 
 SABRINA
-ALAKAZAM 57
-    PSYCHIC        ; TM
-    RECOVER        ; LV 26 (PRE)
-    THUNDER PUNCH  ; TM
-    ICE PUNCH      ; TM
-
-MR MIME 56
-    PSYCHIC        ; TM
-    THUNDERBOLT    ; MOVE TUTOR
-    BARRIER        ; LV 1
-    BATON PASS     ; LV 41
-
-UNOWN 56  ; LETRA S
-    HIDDEN POWER   ; LV 1
-
 WOBBUFFET 56
     COUNTER        ; LV 1
     MIRROR COAT    ; LV 1
@@ -69,11 +51,29 @@ EXEGGUTOR 56
     SLEEP POWDER   ; LV 37 (PRE)
     NIGHTMARE      ; TM
 
+UNOWN 56  ; LETRA S
+    HIDDEN POWER   ; LV 1
+    NO_MOVE ;NÃO APRENDE MAIS
+    NO_MOVE ;NÃO APRENDE MAIS
+    NO_MOVE ;NÃO APRENDE MAIS
+
+MR MIME 56
+    PSYCHIC        ; TM
+    THUNDERBOLT    ; MOVE TUTOR
+    BARRIER        ; LV 1
+    BATON PASS     ; LV 41
+
 EXECUTOR 56
     PSYCHIC        ; TM
     SLEEP POWDER   ; LV 37 (PRE)
     ANCIENT POWER  ; EGG
     DREAM EATER    ; TM
+
+ALAKAZAM 57
+    PSYCHIC        ; TM
+    RECOVER        ; LV 26 (PRE)
+    THUNDER PUNCH  ; TM
+    ICE PUNCH      ; TM
 
 
 
@@ -103,28 +103,39 @@ PARASECT 57
     SLUDGE BOMB    ; TM
     LIGHT SCREEN   ; EGG
 
+VICTREEBEL 58
+    SWORDS DANCE   ; EGG
+    SLUDGE BOMB    ; TM
+    GIGA DRAIN     ; TM
+    SLEEP POWDER   ; LV 15 (PRE)
+
 BELLOSSOM 58
     SLEEP POWDER   ; LV 18 (PRE)
     GIGA DRAIN     ; TM
     SYNTHESIS      ; EGG
     SLUDGE BOMB    ; TM
 
-VICTREEBEL 58
-    SWORD DANCE    ; EGG
-    SLUDGE BOMB    ; TM
-    GIGA DRAIN     ; TM
-    SLEEP POWDER   ; LV 15 (PRE)
 
 
 
-
-
-FILHA DO KOGA
-VENOMOTH 59
+JANINE
+QWILFISH 58
+    HYDRO PUMP     ; LV 46
     TOXIC          ; TM
+    ICE BEAM       ; MOVE TUTOR
+    SPIKES         ; LV 1
+
+QWILFISH 58
+    SURF           ; HM
+    ICE BEAM       ; MOVE TUTOR
     SLUDGE BOMB    ; TM
-    PSYCHIC        ; TM
-    DOUBLE TEAM    ; TM
+    SPIKES         ; LV 1
+
+ARBOK 58
+    SLUDGE BOMB    ; TM
+    EARTHQUAKE     ; TM
+    CRUNCH         ; EGG
+    GLARE          ; LV 23 (PRE)
 
 BEEDRILL 58
     SLUDGE BOMB    ; TM
@@ -132,27 +143,14 @@ BEEDRILL 58
     AGILITY        ; LV 40
     HIDDEN POWER   ; TM
 
-ARbok 58
-    SLUDGE BOMB    ; TM
-    EARTHQUAKE     ; TM
-    CRUNCH         ; EGG
-    GLARE          ; LV 23 (PRE)
-
-QWILFISH 58
-    SURF           ; HM
-    ICE BEAM       ; MOVE TUTOR
-    SLUDGE BOMB    ; TM
-    SPIKES         ; LV 1
-
-QWILFISH 58
-    HYDRO PUMP     ; LV 46
-    TOXIC          ; TM
-    ICE BEAM       ; MOVE TUTOR
-    SPIKES         ; LV 1
-
 NIDOQUEEN 58
     HIDDEN POWER   ; TM
     EARTHQUAKE     ; TM
     TOXIC          ; TM
     SURF           ; HM
 
+VENOMOTH 59
+    TOXIC          ; TM
+    SLUDGE BOMB    ; TM
+    PSYCHIC        ; TM
+    DOUBLE TEAM    ; TM
