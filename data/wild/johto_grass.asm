@@ -443,20 +443,20 @@ JohtoGrassWildMons:
 	db 6, SANDSHREW
 	db 5, ZUBAT
 	db 4, RATTATA
-	db 7, ZUBAT
+	db 5, WOOPER
 	db 6, ONIX
 	db 6, ONIX
 	; day
 	db 6, GEODUDE
 	db 6, SANDSHREW
-	db 5, ZUBAT
+	db 5, WOOPER
 	db 4, RATTATA
 	db 7, ZUBAT
 	db 6, ONIX
 	db 6, ONIX
 	; nite
 	db 6, GEODUDE
-	db 6, RATTATA
+	db 6, SANDSHREW
 	db 5, WOOPER
 	db 4, RATTATA
 	db 7, ZUBAT
@@ -497,7 +497,7 @@ JohtoGrassWildMons:
 	; morn
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 22, ZUBAT
+	db 22, QUAGSIRE
 	db 21, RATICATE
 	db 20, GEODUDE
 	db 23, ONIX
@@ -505,7 +505,7 @@ JohtoGrassWildMons:
 	; day
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 22, ZUBAT
+	db 22, QUAGSIRE
 	db 21, RATICATE
 	db 20, GEODUDE
 	db 23, ONIX
@@ -581,18 +581,18 @@ JohtoGrassWildMons:
 	; morn
 	db 5, CATERPIE
 	db 5, WEEDLE
-	db 7, METAPOD
-	db 7, KAKUNA
-	db 7, PIDGEY
-	db 6, PARAS
+	db 7, VENONAT
+	db 7, ODDISH
+	db 7, PSYDUCK
+	db 6, PIDGEY
 	db 6, PARAS
 	; day
 	db 5, CATERPIE
 	db 5, WEEDLE
-	db 7, METAPOD
-	db 7, KAKUNA
-	db 7, PIDGEY
-	db 6, PARAS
+	db 7, ODDISH
+	db 7, VENONAT
+	db 7, PSYDUCK
+	db 6, PIDGEY
 	db 6, PARAS
 	; nite
 	db 5, ODDISH
@@ -600,7 +600,7 @@ JohtoGrassWildMons:
 	db 7, ODDISH
 	db 7, PSYDUCK
 	db 7, HOOTHOOT
-	db 6, PARAS
+	db 6, PYSDUCK
 	db 6, PARAS
 	end_grass_wildmons
 
