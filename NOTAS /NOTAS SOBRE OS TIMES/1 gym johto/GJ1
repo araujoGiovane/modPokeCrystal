@@ -38,7 +38,6 @@ PIDGEY 9
 
 
 
-
 BUGSY
 PINSIR 14
     FURY CUTTER     ; TM
@@ -70,12 +69,12 @@ YANMA 14
     HEADBUTT        ; TM
     FORESIGHT       ; LV 1
 
-
 SCYTHER 16
     FURY CUTTER     ; TM
     REVERSAL        ; EGG
     STEEL WING      ; TM
     HIDDEN POWER    ; TM
+
 
 
 
@@ -117,13 +116,9 @@ MILTANK 20
     STOMP           ; LV 13
 
 
-MORTY
-GENGAR 25
-    HYPNOSIS        ; LV 1 (PRE)
-    SHADOW BALL     ; TM
-    MEAN LOOK       ; LV 13 (PRE)
-    DREAM EATER     ; TM
 
+
+MORTY
 HAUNTER 24
     HYPNOSIS        ; LV 1 (PRE)
     SHADOW BALL     ; TM
@@ -154,3 +149,8 @@ MISDREAVUS 23
     THUNDERBOLT     ; MOVE TUTOR
     SHADOW BALL     ; TM
 
+GENGAR 25
+    HYPNOSIS        ; LV 1 (PRE)
+    SHADOW BALL     ; TM
+    MEAN LOOK       ; LV 13 (PRE)
+    DREAM EATER     ; TM
