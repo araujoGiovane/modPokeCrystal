@@ -2,6 +2,8 @@
 
 JohtoGrassWildMons:
 
+;SEÇÃO 1
+
 	def_grass_wildmons SPROUT_TOWER_2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
@@ -197,6 +199,12 @@ JohtoGrassWildMons:
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 2
 
 	def_grass_wildmons TIN_TOWER_7F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
@@ -394,6 +402,12 @@ JohtoGrassWildMons:
 	db 22, QUAGSIRE
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 3
+
 	def_grass_wildmons RUINS_OF_ALPH_INNER_CHAMBER
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
@@ -589,6 +603,12 @@ JohtoGrassWildMons:
 	db 6, PARAS
 	db 6, PARAS
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 4
 
 	def_grass_wildmons MOUNT_MORTAR_1F_OUTSIDE
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
@@ -786,6 +806,12 @@ JohtoGrassWildMons:
 	db 24, SNEASEL
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 5
+
 	def_grass_wildmons ICE_PATH_B2F_BLACKTHORN_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
@@ -981,6 +1007,12 @@ JohtoGrassWildMons:
 	db 24, GOLBAT
 	db 24, GOLBAT
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 6
 
 	def_grass_wildmons WHIRL_ISLAND_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
@@ -1178,6 +1210,12 @@ JohtoGrassWildMons:
 	db 52, PARASECT
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 7
+
 	def_grass_wildmons DARK_CAVE_VIOLET_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
@@ -1374,6 +1412,12 @@ JohtoGrassWildMons:
 	db 7, RATTATA
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 8
+
 	def_grass_wildmons ROUTE_34
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
@@ -1541,6 +1585,12 @@ JohtoGrassWildMons:
 	db 18, MEOWTH
 	db 18, MEOWTH
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 9
 
 	def_grass_wildmons ROUTE_42
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite

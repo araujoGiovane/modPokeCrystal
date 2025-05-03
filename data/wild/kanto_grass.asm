@@ -2,6 +2,8 @@
 
 KantoGrassWildMons:
 
+;SEÇÃO 1
+
 	def_grass_wildmons DIGLETTS_CAVE
 	db 4 percent, 2 percent, 8 percent ; encounter rates: morn/day/nite
 	; morn
@@ -197,6 +199,12 @@ KantoGrassWildMons:
 	db 4, HOOTHOOT
 	db 4, HOOTHOOT
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 2
 
 	def_grass_wildmons ROUTE_2
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
@@ -394,6 +402,12 @@ KantoGrassWildMons:
 	db 18, KADABRA
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 3
+
 	def_grass_wildmons ROUTE_9
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
@@ -590,6 +604,12 @@ KantoGrassWildMons:
 	db 30, MUK
 	end_grass_wildmons
 
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 4
+
 	def_grass_wildmons ROUTE_17
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
@@ -785,6 +805,12 @@ KantoGrassWildMons:
 	db 30, QUAGSIRE
 	db 30, QUAGSIRE
 	end_grass_wildmons
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 5
 
 	def_grass_wildmons ROUTE_27
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
