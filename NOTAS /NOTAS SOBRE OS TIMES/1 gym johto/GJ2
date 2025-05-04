@@ -1,39 +1,39 @@
 CHUCK
 PRIMEAPE 27
     KARATE CHOP     ; LV 15
-    THUNDER         ; TM
+    THUNDER         ; TM ok
     COUNTER         ; EGG
     STRENGTH        ; HM ok
 
 HERACROSS 27
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
     ENDURE          ; LV 12
     FLAIL           ; EGG
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
 
 PRIMEAPE 27
     KARATE CHOP     ; LV 15 (PRE)
-    SWAGGER         ; TM
-    PSY UP          ; TM
+    SWAGGER         ; TM ok
+    PSYCH UP        ; TM ok
     ROCK SLIDE      ; EGG
 
 HERACROSS 27
     COUNTER         ; LV 27
     ENDURE          ; LV 12
     FLAIL           ; EGG
-    EARTHQUAKE      ; TM
+    EARTHQUAKE      ; TM OK
 
 HERACROSS 27
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
     COUNTER         ; LV 27
     HORN ATTACK     ; LV 6
-    EARTHQUAKE      ; TM
+    EARTHQUAKE      ; TM ok
 
 POLIWRATH 30
-    DYNAMIC PUNCH   ; TM
+    DYNAMIC PUNCH   ; TM ok
     MIND READER     ; EGG
     SURF            ; HM ok
-    EARTHQUAKE      ; TM
+    EARTHQUAKE      ; TM ok
 
 
 
@@ -41,39 +41,39 @@ POLIWRATH 30
 JASMINE
 SKARMORY 30
     DRILL PECK      ; EGG
-    STEEL WING      ; TM
-    SWAGGER         ; TM
-    SANDSTORM       ; TM
+    STEEL WING      ; TM ok
+    SWAGGER         ; TM ok
+    SANDSTORM       ; TM ok
 
 MAGNEMITE 30
     THUNDERBOLT     ; MOVE TUTOR ok
     THUNDER WAVE    ; LV 21 (PRE)
     FLASH           ; HM ok
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
 
 SKARMORY 30
     DRILL PECK      ; EGG
-    STEEL WING      ; TM
+    STEEL WING      ; TM ok
     SAND ATTACK     ; LV 13
-    SANDSTORM       ; TM
+    SANDSTORM       ; TM ok
 
 SKARMORY 30
-    SANDSTORM       ; TM
-    PROTECT         ; TM
-    STEEL WING      ; TM
+    SANDSTORM       ; TM ok
+    PROTECT         ; TM ok
+    STEEL WING      ; TM ok
     DRILL PECK      ; EGG
 
 MAGNEMITE 30
     FLASH           ; HM ok
-    THUNDER         ; TM
-    RAIN DANCE      ; TM
-    DOUBLE TEAM     ; TM
+    THUNDER         ; TM ok
+    RAIN DANCE      ; TM ok
+    DOUBLE TEAM     ; TM ok
 
 STEELIX 33
-    IRON TAIL       ; TM
-    EARTHQUAKE      ; TM
+    IRON TAIL       ; TM ok
+    EARTHQUAKE      ; TM ok
     ROCK SLIDE      ; EGG
-    SANDSTORM       ; TM
+    SANDSTORM       ; TM ok
 
 
 
@@ -82,38 +82,38 @@ PRYCE
 DEWGONG 32
     ICE BEAM        ; MOVE TUTOR ok
     SURF            ; HM ok
-    DOUBLE TEAM     ; TM
-    REST            ; TM
+    DOUBLE TEAM     ; TM ok
+    REST            ; TM ok
 
 DELIBIRD 32
     ICE BEAM        ; MOVE TUTOR ok
-    ICY WIND        ; TM
-    REST            ; TM
-    HIDDEN POWER    ; TM
+    ICY WIND        ; TM ok
+    REST            ; TM ok 
+    HIDDEN POWER    ; TM ok
 
 LAPRAS 32
     SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
-    REST            ; TM
+    REST            ; TM ok
     CONFUSE RAY     ; LV 22
 
 CLOYSTER 32
     SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
-    REST            ; TM
-    SLEEP TALK      ; TM
+    REST            ; TM ok
+    SLEEP TALK      ; TM ok
 
 SNEASEL 33
-    BLIZZARD        ; TM
-    DOUBLE TEAM     ; TM
-    THIEF           ; TM
+    BLIZZARD        ; TM ok
+    DOUBLE TEAM     ; TM ok
+    THIEF           ; TM ok
     STRENGTH        ; HM ok
 
 PILOSWINE 35
-    EARTHQUAKE      ; TM
-    ICY WIND        ; TM
+    EARTHQUAKE      ; TM ok
+    ICY WIND        ; TM ok
     ANCIENT POWER   ; EGG
-    REST            ; TM
+    REST            ; TM ok
 
 
 
@@ -121,36 +121,36 @@ PILOSWINE 35
 CLAIRE
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
-    DRAGON BREATH   ; TM
+    DRAGON BREATH   ; TM ok
     LIGHT SCREEN    ; EGG
     SURF            ; HM ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
-    DRAGON BREATH   ; TM
-    DOUBLE TEAM     ; TM
+    DRAGON BREATH   ; TM ok
+    DOUBLE TEAM     ; TM ok
     THUNDERBOLT     ; MOVE TUTOR ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
-    DRAGON BREATH   ; TM
+    DRAGON BREATH   ; TM ok
     LIGHT SCREEN    ; EGG
     ICE BEAM        ; MOVE TUTOR ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
-    DRAGON BREATH   ; TM
-    DOUBLE TEAM     ; TM
+    DRAGON BREATH   ; TM ok
+    DOUBLE TEAM     ; TM ok
     FLAMETHROWER    ; MOVE TUTOR ok
 
 DRATINI 39
     THUNDER WAVE    ; LV 8
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
     LIGHT SCREEN    ; EGG
     DRAGON RAGE     ; LV 22
 
 KINGDRA 40
     SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
-    DRAGON BREATH   ; TM
-    REST            ; TM
+    DRAGON BREATH   ; TM ok
+    REST            ; TM ok

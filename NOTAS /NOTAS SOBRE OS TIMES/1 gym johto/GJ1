@@ -2,78 +2,78 @@ FALKNER
 DODUO 7
     PECK            ; LV 1
     FLAIL           ; EGG
-    STEEL WING      ; TM
-    MUD-SLAP        ; TM
+    STEEL WING      ; TM ok
+    MUD-SLAP        ; TM ok
 
 FARFETCH'D 7
     GUST            ; EGG
-    SWIFT           ; TM
-    REST            ; TM
-    SNORE           ; TM
+    SWIFT           ; TM ok
+    REST            ; TM ok
+    SNORE           ; TM ok
 
 GLIGAR 7
     POISON STING    ; LV 1
     METAL CLAW      ; EGG
-    SANDSTORM       ; TM
-    DETECT          ; TM
+    SANDSTORM       ; TM ok
+    DETECT          ; TM ok
 
 SPEAROW 7
     PECK            ; LV 1
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
     QUICK ATTACK    ; EGG
-    STEEL WING      ; TM
+    STEEL WING      ; TM ok
 
 HOOTHOOT 7
     TACKLE          ; LV 1
-    STEEL WING      ; TM
+    STEEL WING      ; TM ok
     GROWL           ; LV 1
     WHIRLWIND       ; EGG
 
 PIDGEY 9
     GUST            ; LV 9
-    MUD-SLAP        ; TM
-    STEEL WING      ; TM
-    HIDDEN POWER    ; TM
+    MUD-SLAP        ; TM ok
+    STEEL WING      ; TM ok
+    HIDDEN POWER    ; TM ok
 
 
 
 
 BUGSY
 PINSIR 14
-    FURY CUTTER     ; TM
-    HEADBUTT        ; TM
-    REST            ; TM
-    SNORE           ; TM
+    FURY CUTTER     ; TM ok
+    HEADBUTT        ; TM ok
+    REST            ; TM ok
+    SNORE           ; TM ok
 
 BUTTERFREE 14
-    PSYCHIC         ; TM
-    HIDDEN POWER    ; TM
+    PSYCHIC         ; TM ok
+    HIDDEN POWER    ; TM ok
     STUN SPORE      ; LV 14
     POISON POWDER   ; LV 13
 
 LEDYBA 14
     LIGHT SCREEN    ; EGG
-    THIEF           ; TM
-    THUNDERPUNCH    ; TM
-    ICE PUNCH       ; TM
+    THIEF           ; TM ok
+    THUNDERPUNCH    ; TM ok
+    ICE PUNCH       ; TM ok
 
 PINECO 14
     SELFDESTRUCT    ; LV 8
     REFLECT         ; EGG
-    HEADBUTT        ; TM
-    ROLLOUT         ; TM
+    HEADBUTT        ; TM ok
+    ROLLOUT         ; TM ok
 
 YANMA 14
     LEECH LIFE      ; EGG
     FLASH           ; HM ok
-    HEADBUTT        ; TM
+    HEADBUTT        ; TM ok
     FORESIGHT       ; LV 1
 
 SCYTHER 16
-    FURY CUTTER     ; TM
+    FURY CUTTER     ; tm ok
     REVERSAL        ; EGG
-    STEEL WING      ; TM
-    HIDDEN POWER    ; TM
+    STEEL WING      ; TM ok
+    HIDDEN POWER    ; TM ok
 
 
 
@@ -86,32 +86,32 @@ SMEARGLE 18
     ENCORE          ; SKETCH
 
 FURRET 18
-    SLEEP TALK      ; TM
-    REST            ; TM
+    SLEEP TALK      ; TM ok
+    REST            ; TM ok
     REVERSAL        ; EGG
-    HEADBUTT        ; TM
+    HEADBUTT        ; TM ok
 
 TOGETIC 18
-    ATTRACT         ; TM
+    ATTRACT         ; TM ok
     CHARM           ; LV 1 (PRE)
     METRONOME       ; LV 7 (PRE)
     FLAMETHROWER    ; MOVE TUTOR ok
 
 STANTLER 18
-    EARTHQUAKE      ; TM
-    HEADBUTT        ; TM
+    EARTHQUAKE      ; TM ok
+    HEADBUTT        ; TM ok
     REFLECT         ; EGG
     HYPNOSIS        ; LV 15
 
 AIPOM 18
     COUNTER         ; EGG
-    ATTRACT         ; TM
-    ICE PUNCH       ; TM
+    ATTRACT         ; TM ok
+    ICE PUNCH       ; TM ok
     STRENGTH        ; HM ok
 
 MILTANK 20
-    ROLLOUT         ; TM
-    ATTRACT         ; TM
+    ROLLOUT         ; TM ok
+    ATTRACT         ; TM ok
     MILK DRINK      ; LV 19
     STOMP           ; LV 13
 
@@ -121,36 +121,36 @@ MILTANK 20
 MORTY
 HAUNTER 24
     HYPNOSIS        ; LV 1 (PRE)
-    SHADOW BALL     ; TM
-    NIGHTMARE       ; TM
+    SHADOW BALL     ; TM ok
+    NIGHTMARE       ; TM ok
     THUNDERBOLT     ; MOVE TUTOR ok
 
 GASTLY 23
     PERISH SONG     ; EGG
     MEAN LOOK       ; LV 13
-    DOUBLE TEAM     ; TM
-    SWAGGER         ; TM
+    DOUBLE TEAM     ; TM ok
+    SWAGGER         ; TM ok
 
 MISDREAVUS 23
-    SHADOW BALL     ; TM
-    PSYCHIC         ; TM
+    SHADOW BALL     ; TM ok
+    PSYCHIC         ; TM ok
     THUNDERBOLT     ; MOVE TUTOR ok
     DESTINY BOND    ; EGG
 
 MISDREAVUS 23
     CONFUSE RAY     ; LV 12
     DESTINY BOND    ; EGG
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
     MEAN LOOK       ; LV 19
 
 MISDREAVUS 23
     MEAN LOOK       ; LV 19
     CONFUSE RAY     ; LV 12
     THUNDERBOLT     ; MOVE TUTOR ok
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
 
 GENGAR 25
     HYPNOSIS        ; LV 1 (PRE)
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
     MEAN LOOK       ; LV 13 (PRE)
-    DREAM EATER     ; TM
+    DREAM EATER     ; TM ok
