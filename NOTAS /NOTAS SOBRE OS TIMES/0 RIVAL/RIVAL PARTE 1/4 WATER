@@ -21,14 +21,14 @@ CROCONAW 22
 
 RIVAL4
 FERALIGATR 36      ; DEVERIA SER 32, MAS VOU DEIXAR 36 PROS 3 INICIAIS JÁ ESTAREM NA ÚLTIMA FORMA
-    SURF            ; HM
+    SURF            ; HM ok
     ICE PUNCH       ; TM
     SCARY FACE      ; LV 28 (PRE)
     HEADBUTT        ; TM
 
 RIVAL5
 FERALIGATR 38
-    SURF            ; HM
+    SURF            ; HM ok 
     ICE PUNCH       ; TM
     SCARY FACE      ; LV 28 (PRE)
     EARTHQUAKE      ; TM
