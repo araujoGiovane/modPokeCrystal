@@ -1426,7 +1426,7 @@ JohtoGrassWildMons:
 	db 12, PIDGEY
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 12, DROWZEE
 	db 10, DITTO
 	; day
 	db 10, SNUBBULL
@@ -1434,7 +1434,7 @@ JohtoGrassWildMons:
 	db 12, PIDGEY
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 12, DROWZEE
 	db 10, DITTO
 	; nite
 	db 12, DROWZEE
@@ -1442,7 +1442,7 @@ JohtoGrassWildMons:
 	db 12, HOOTHOOT
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 10, SNUBBULL
 	db 10, DITTO
 	end_grass_wildmons
 
@@ -1454,7 +1454,7 @@ JohtoGrassWildMons:
 	db 13, GROWLITHE
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 13, PSYDUCK
 	db 12, YANMA
 	; day
 	db 12, SNUBBULL
@@ -1462,7 +1462,7 @@ JohtoGrassWildMons:
 	db 13, GROWLITHE
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 13, PSYDUCK
 	db 12, YANMA
 	; nite
 	db 12, DROWZEE
@@ -1470,7 +1470,7 @@ JohtoGrassWildMons:
 	db 13, PSYDUCK
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 13, GROWLITHE
 	db 12, YANMA
 	end_grass_wildmons
 
@@ -1478,27 +1478,27 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 4, LEDYBA
-	db 4, PIDGEY
-	db 5, BELLSPROUT
-	db 5, GROWLITHE
-	db 5, PIDGEY
-	db 6, PIDGEY
-	db 6, PIDGEY
-	; day
-	db 4, PIDGEY
-	db 4, PIDGEY
-	db 5, BELLSPROUT
-	db 5, GROWLITHE
-	db 5, PIDGEY
-	db 6, PIDGEY
-	db 6, PIDGEY
-	; nite
 	db 4, SPINARAK
-	db 4, HOOTHOOT
 	db 5, BELLSPROUT
-	db 5, HOOTHOOT
+	db 5, GROWLITHE
 	db 5, HOOTHOOT
 	db 5, GASTLY
+	db 6, PIDGEY
+	; day
+	db 4, LEDYBA
+	db 4, PIDGEY
+	db 5, BELLSPROUT
+	db 5, GROWLITHE
+	db 5, HOOTHOOT
+	db 5, GASTLY
+	db 4, SPINARAK
+	; nite
+	db 4, SPINARAK
+	db 4, LEDYBA
+	db 5, BELLSPROUT
+	db 4, PIDGEY
+	db 5, HOOTHOOT
+	db 5, GROWLITHE
 	db 5, GASTLY
 	end_grass_wildmons
 
@@ -1508,25 +1508,25 @@ JohtoGrassWildMons:
 	db 13, LEDYBA
 	db 14, GROWLITHE
 	db 15, PIDGEY
-	db 16, GROWLITHE
-	db 15, PIDGEOTTO
+	db 16, STANTLER
+	db 15, HOOTHOOT
 	db 15, LEDIAN
-	db 15, LEDIAN
+	db 13, SPINARAK
 	; day
-	db 13, PIDGEY
-	db 14, GROWLITHE
+	db 16, STANTLER
+	db 13, LEDYBA
 	db 15, PIDGEY
 	db 16, GROWLITHE
-	db 15, PIDGEOTTO
-	db 15, PIDGEY
-	db 15, PIDGEY
+	db 15, HOOTHOOT
+	db 15, GROWLITHE
+	db 13, SPINARAK
 	; nite
 	db 13, SPINARAK
-	db 14, STANTLER
+	db 13, LEDYBA
 	db 15, HOOTHOOT
 	db 16, STANTLER
-	db 15, NOCTOWL
-	db 15, ARIADOS
+	db 14, GROWLITHE
+	db 15, PIDGEY
 	db 15, ARIADOS
 	end_grass_wildmons
 
@@ -1538,7 +1538,7 @@ JohtoGrassWildMons:
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
 	db 13, TAUROS
-	db 13, MILTANK
+	db 16, MEOWTH
 	db 13, MILTANK
 	; day
 	db 16, RATTATA
@@ -1547,14 +1547,14 @@ JohtoGrassWildMons:
 	db 16, PIDGEOTTO
 	db 13, TAUROS
 	db 13, MILTANK
-	db 13, MILTANK
-	; nite
 	db 16, MEOWTH
+	; nite
+	db 16, RATTATA
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, NOCTOWL
-	db 16, MEOWTH
-	db 16, MEOWTH
+	db 13, TAUROS
+	db 13, MILTANK
 	db 16, MEOWTH
 	end_grass_wildmons
 
@@ -1567,22 +1567,22 @@ JohtoGrassWildMons:
 	db 16, PIDGEOTTO
 	db 15, MILTANK
 	db 15, TAUROS
-	db 15, TAUROS
+	db 18, MEOWTH
 	; day
 	db 16, RATTATA
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
 	db 15, MILTANK
-	db 15, TAUROS
+	db 18, MEOWTH
 	db 15, TAUROS
 	; nite
-	db 16, MEOWTH
+	db 16, RATTATA
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, NOCTOWL
-	db 18, MEOWTH
-	db 18, MEOWTH
+	db 15, MILTANK
+	db 15, TAUROS
 	db 18, MEOWTH
 	end_grass_wildmons
 

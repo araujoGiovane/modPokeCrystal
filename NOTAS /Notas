@@ -117,7 +117,46 @@
     ROTA 31 NÃO MUDOU NADA 
     NA ROTA 32 SÓ O EKANS E WOOPER FORAM MEXIDOS 
 
-5.1.8 SEÇÃO 8____[ ]
+5.1.8 SEÇÃO 8____[OK]
+    NA ROTA 34 PIDGEY E HOOT HOOT NÃO APARECE MAIS 
+    NA ROTA 35 DITTO NÃO APARECE MAIS 
+    
+
+    QUANDO TIVER CONFLITO ENTRE EVOLUÇÃO E PRE EVOLUÇÃO EU VOU MANTER AEVOLUÇÃO NO PERIODO ORIGINAL 
+        	def_grass_wildmons ROUTE_37
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 13, LEDYBA
+	db 14, GROWLITHE
+	db 15, PIDGEY
+	db 16, STANTLER
+	db 15, HOOTHOOT
+	db 15, LEDIAN
+	db 13, SPINARAK
+	; day
+	db 16, STANTLER
+	db 13, LEDYBA
+	db 15, PIDGEY
+	db 16, GROWLITHE
+	db 15, HOOTHOOT
+	db 15, GROWLITHE
+	db 13, SPINARAK
+	; nite
+	db 13, SPINARAK
+	db 13, LEDYBA
+	db 15, HOOTHOOT
+	db 16, STANTLER
+	db 14, GROWLITHE
+	db 15, PIDGEY
+	db 15, ARIADOS
+	end_grass_wildmons
+
+    ACIMA ARIADOS É NOTURNO E LEDIAN É DIURNO
+
+
+    NA ROTA 38 E 39 PIDGEOTO E NOCTOW SÃO DIURNI E NOTURNO 
+
+
 5.1.9 SEÇÃO 9____[ ]
 
 
