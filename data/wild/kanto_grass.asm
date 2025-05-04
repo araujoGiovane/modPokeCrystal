@@ -411,26 +411,26 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_9
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 15, RATTATA
+	db 15, ZUBAT
 	db 15, SPEAROW
 	db 15, RATICATE
-	db 15, FEAROW
+	db 15, VENONAT
 	db 15, FEAROW
 	db 18, MAROWAK
 	db 18, MAROWAK
 	; day
 	db 15, RATTATA
 	db 15, SPEAROW
-	db 15, RATICATE
-	db 15, FEAROW
+	db 15, ZUBAT
+	db 15, VENONAT
 	db 15, FEAROW
 	db 18, MAROWAK
 	db 18, MAROWAK
 	; nite
 	db 15, RATTATA
 	db 15, VENONAT
-	db 15, RATICATE
-	db 15, VENOMOTH
+	db 18, MAROWAK
+	db 15, SPEAROW
 	db 15, ZUBAT
 	db 18, RATICATE
 	db 18, RATICATE
@@ -442,25 +442,25 @@ KantoGrassWildMons:
 	db 15, SPEAROW
 	db 17, VOLTORB
 	db 15, RATICATE
-	db 15, FEAROW
+	db 15, VENONAT
 	db 15, MAROWAK
-	db 16, ELECTABUZZ
+	db 15, ZUBAT
 	db 16, ELECTABUZZ
 	; day
 	db 15, SPEAROW
 	db 17, VOLTORB
 	db 15, RATICATE
-	db 15, FEAROW
+	db 15, VENONAT
 	db 15, MAROWAK
-	db 18, ELECTABUZZ
+	db 15, ZUBAT
 	db 18, ELECTABUZZ
 	; nite
 	db 15, VENONAT
 	db 17, VOLTORB
 	db 15, RATICATE
-	db 15, VENOMOTH
+	db 15, SPEAROW
 	db 15, ZUBAT
-	db 16, ELECTABUZZ
+	db 15, MAROWAK
 	db 16, ELECTABUZZ
 	end_grass_wildmons
 
@@ -472,23 +472,23 @@ KantoGrassWildMons:
 	db 15, MAGNEMITE
 	db 16, PIDGEOTTO
 	db 16, RATTATA
-	db 16, HOPPIP
-	db 16, HOPPIP
+	db 14, DROWZEE
+	db 13, MEOWTH
 	; day
 	db 14, HOPPIP
 	db 13, RATICATE
 	db 15, MAGNEMITE
 	db 16, PIDGEOTTO
-	db 16, RATTATA
+	db 14, DROWZEE
 	db 16, HOPPIP
-	db 16, HOPPIP
+	db 13, MEOWTH
 	; nite
 	db 14, DROWZEE
 	db 13, MEOWTH
 	db 15, MAGNEMITE
 	db 16, NOCTOWL
 	db 16, RATICATE
-	db 16, HYPNO
+	db 14, HOPPIP
 	db 16, HYPNO
 	end_grass_wildmons
 
@@ -499,23 +499,23 @@ KantoGrassWildMons:
 	db 23, NIDORINA
 	db 25, PIDGEOTTO
 	db 25, HOPPIP
-	db 27, HOPPIP
-	db 27, HOPPIP
+	db 23, VENONAT
+	db 25, QUAGSIRE
 	db 25, CHANSEY
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
 	db 25, PIDGEOTTO
-	db 25, HOPPIP
-	db 27, HOPPIP
+	db 25, QUAGSIRE
+	db 23, VENONAT
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; nite
 	db 23, VENONAT
-	db 23, QUAGSIRE
+	db 27, HOPPIP
 	db 25, NOCTOWL
-	db 25, VENOMOTH
-	db 25, QUAGSIRE
+	db 23, NIDORINO
+	db 23, NIDORINA
 	db 25, QUAGSIRE
 	db 25, CHANSEY
 	end_grass_wildmons
@@ -526,25 +526,25 @@ KantoGrassWildMons:
 	db 26, NIDORINO
 	db 26, NIDORINA
 	db 28, PIDGEOTTO
-	db 28, HOPPIP
+	db 28, VENOMOTH
 	db 30, SKIPLOOM
-	db 30, SKIPLOOM
+	db 26, QUAGSIRE
 	db 28, CHANSEY
 	; day
 	db 26, NIDORINO
 	db 26, NIDORINA
 	db 28, PIDGEOTTO
-	db 28, HOPPIP
+	db 28, VENOMOTH
 	db 30, SKIPLOOM
-	db 30, SKIPLOOM
+	db 26, QUAGSIRE
 	db 28, CHANSEY
 	; nite
-	db 26, VENONAT
+	db 30, SKIPLOOM
 	db 26, QUAGSIRE
 	db 28, NOCTOWL
 	db 28, VENOMOTH
-	db 28, QUAGSIRE
-	db 28, QUAGSIRE
+	db 26, NIDORINO
+	db 26, NIDORINA
 	db 28, CHANSEY
 	end_grass_wildmons
 
@@ -554,40 +554,40 @@ KantoGrassWildMons:
 	db 23, NIDORINO
 	db 23, NIDORINA
 	db 25, PIDGEOTTO
-	db 25, HOPPIP
-	db 27, HOPPIP
+	db 23, VENONAT
+	db 23, QUAGSIRE
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
 	db 25, PIDGEOTTO
-	db 25, HOPPIP
-	db 27, HOPPIP
+	db 23, VENONAT
+	db 23, QUAGSIRE
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; nite
 	db 23, VENONAT
 	db 23, QUAGSIRE
 	db 25, NOCTOWL
-	db 25, VENOMOTH
-	db 25, QUAGSIRE
-	db 25, QUAGSIRE
+	db 25, HOPPIP
+	db 23, NIDORINO
+	db 23, NIDORINA
 	db 25, CHANSEY
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_16
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, GRIMER
+	db 29, MURKROW
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, FEAROW
 	db 30, MUK
-	db 30, MUK
+	db 29, SLUGMA
 	; day
-	db 26, GRIMER
+	db 29, MURKROW
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
@@ -595,13 +595,13 @@ KantoGrassWildMons:
 	db 30, MUK
 	db 30, MUK
 	; nite
-	db 26, GRIMER
+	db 29, FEAROW
 	db 27, GRIMER
 	db 28, GRIMER
 	db 29, MURKROW
 	db 29, MURKROW
 	db 30, MUK
-	db 30, MUK
+	db 29, SLUGMA
 	end_grass_wildmons
 
 ;----------------------------------------------------------------------------------
