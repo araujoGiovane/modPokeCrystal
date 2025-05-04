@@ -46,7 +46,7 @@ SKARMORY 30
     SANDSTORM       ; TM
 
 MAGNEMITE 30
-    THUNDERBOLT     ; MOVE TUTOR
+    THUNDERBOLT     ; MOVE TUTOR ok
     THUNDER WAVE    ; LV 21 (PRE)
     FLASH           ; HM
     HIDDEN POWER    ; TM
@@ -80,26 +80,26 @@ STEELIX 33
 
 PRYCE
 DEWGONG 32
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     SURF            ; HM
     DOUBLE TEAM     ; TM
     REST            ; TM
 
 DELIBIRD 32
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     ICY WIND        ; TM
     REST            ; TM
     HIDDEN POWER    ; TM
 
 LAPRAS 32
     SURF            ; HM
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     REST            ; TM
     CONFUSE RAY     ; LV 22
 
 CLOYSTER 32
     SURF            ; HM
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     REST            ; TM
     SLEEP TALK      ; TM
 
@@ -129,19 +129,19 @@ DRAGONAIR 37
     THUNDER WAVE    ; LV 8
     DRAGON BREATH   ; TM
     DOUBLE TEAM     ; TM
-    THUNDERBOLT     ; MOVE TUTOR
+    THUNDERBOLT     ; MOVE TUTOR ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
     DRAGON BREATH   ; TM
     LIGHT SCREEN    ; EGG
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
     DRAGON BREATH   ; TM
     DOUBLE TEAM     ; TM
-    FLAMETHROWER    ; MOVE TUTOR
+    FLAMETHROWER    ; MOVE TUTOR ok
 
 DRATINI 39
     THUNDER WAVE    ; LV 8
@@ -151,6 +151,6 @@ DRATINI 39
 
 KINGDRA 40
     SURF            ; HM
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     DRAGON BREATH   ; TM
     REST            ; TM
