@@ -65,7 +65,7 @@ PINECO 14
 
 YANMA 14
     LEECH LIFE      ; EGG
-    FLASH           ; HM
+    FLASH           ; HM ok
     HEADBUTT        ; TM
     FORESIGHT       ; LV 1
 
@@ -107,7 +107,7 @@ AIPOM 18
     COUNTER         ; EGG
     ATTRACT         ; TM
     ICE PUNCH       ; TM
-    STRENGTH        ; HM
+    STRENGTH        ; HM ok
 
 MILTANK 20
     ROLLOUT         ; TM
