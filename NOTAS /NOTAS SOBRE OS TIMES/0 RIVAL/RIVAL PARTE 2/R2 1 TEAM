@@ -1,19 +1,19 @@
 RIVAL6
 SNEASEL 41
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
     SCREECH         ; LV 17
-    ICY WIND        ; TM
-    IRON TAIL       ; TM
+    ICY WIND        ; TM ok
+    IRON TAIL       ; TM ok
 
 GOLBAT 42
-    ATTRACT         ; TM
+    ATTRACT         ; TM ok
     BITE            ; LV 12 (PRE)
     CONFUSE RAY     ; LV 19 (PRE)
     WING ATTACK     ; LV 27 (PRE)
 
 MAGNETON 41
     THUNDERBOLT     ; MOVE TUTOR ok
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
     THUNDER WAVE    ; LV 21 (PRE)
     TRI ATTACK      ; LV 35
 
@@ -26,8 +26,8 @@ GENGAR 43
 ALAKAZAM 43
     PSYCHIC         ; LV 38 (PRE)
     RECOVER         ; LV 26 (PRE)
-    FIRE PUNCH      ; TM
-    ICE PUNCH       ; TM
+    FIRE PUNCH      ; TM ok
+    ICE PUNCH       ; TM ok
 
 ; STARTER 45
 
@@ -35,20 +35,20 @@ ALAKAZAM 43
 
 RIVAL7
 SNEASEL 52
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
     SCREECH         ; LV 17
-    ICY WIND        ; TM
-    IRON TAIL       ; TM
+    ICY WIND        ; TM ok
+    IRON TAIL       ; TM ok
 
 CROBAT 54
-    ATTRACT         ; TM
+    ATTRACT         ; TM ok
     BITE            ; LV 12 (PRE)
     CONFUSE RAY     ; LV 19 (PRE)
     WING ATTACK     ; LV 27 (PRE)
 
 MAGNETON 53
     THUNDERBOLT     ; MOVE TUTOR ok
-    HIDDEN POWER    ; TM
+    HIDDEN POWER    ; TM ok
     THUNDER WAVE    ; LV 21 (PRE)
     TRI ATTACK      ; LV 35
 
@@ -61,7 +61,7 @@ GENGAR 54
 ALAKAZAM 51
     PSYCHIC         ; LV 38 (PRE)
     RECOVER         ; LV 36 (PRE)
-    FIRE PUNCH      ; TM
+    FIRE PUNCH      ; TM ok
     REFLECT         ; LV 45
 
 ; STARTER 55     ; ERA 50, MAS AUMENTEI PRA 55
