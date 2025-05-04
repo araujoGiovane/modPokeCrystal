@@ -5,7 +5,7 @@ STARTER 5
 
 RIVAL2
 GASTLY 12
-    HYPNOSIS        ; LV 1
+    HYPNOSIS        ; LV 1 
     LICK            ; LV 1
     SPITE           ; LV 8
     NO_MOVE         ; SEM MOVE POR ORA
@@ -86,8 +86,8 @@ GOLBAT 36
     WING ATTACK     ; LV 27 (PRE)
 
 MAGNETON 35
-    THUNDERBOLT     ; MV
-    HIDDEN POWER    ; TM
+    THUNDERBOLT     ; MV ok
+    HIDDEN POWER    ; TM 
     THUNDER WAVE    ; LV 21 (PRE)
     TRI ATTACK      ; LV 35
 
