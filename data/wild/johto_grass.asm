@@ -1676,7 +1676,7 @@ JohtoGrassWildMons:
 	db 26, POLIWHIRL
 	end_grass_wildmons
 
-	def_grass_wildmons ROUTE_45NÃOOOOOOOOOOOOOOOOOOOOOOO MEXE 
+	def_grass_wildmons ROUTE_45;NÃOOOOOOOOOOOOOOOOOOOOOOO MEXE 
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, GEODUDE

@@ -172,7 +172,7 @@ KantoGrassWildMons:
 	db 23, SLOWPOKE
 	end_grass_wildmons
 
-	def_grass_wildmons ROUTE_1NÃAAAAAAAAAAAAAO MEXE
+	def_grass_wildmons ROUTE_1;NÃAAAAAAAAAAAAAO MEXE
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, PIDGEY
@@ -206,7 +206,7 @@ KantoGrassWildMons:
 
 ;SEÇÃO 2
 
-	def_grass_wildmons ROUTE_2NÃAAAAAAAAAAAAAAAAO MEXE 
+	def_grass_wildmons ROUTE_2;NÃAAAAAAAAAAAAAAAAO MEXE 
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, CATERPIE
@@ -234,7 +234,7 @@ KantoGrassWildMons:
 	db 4, NOCTOWL
 	end_grass_wildmons
 
-	def_grass_wildmons ROUTE_3NÃAAAAAAAAAAAAAO MEXE
+	def_grass_wildmons ROUTE_3;NÃAAAAAAAAAAAAAO MEXE
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 5, SPEAROW
@@ -262,7 +262,7 @@ KantoGrassWildMons:
 	db 6, CLEFAIRY
 	end_grass_wildmons
 
-	def_grass_wildmons ROUTE_4NÃAAAAAAAAAAAAAO MEXE
+	def_grass_wildmons ROUTE_4;NÃAAAAAAAAAAAAAO MEXE
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 5, SPEAROW
