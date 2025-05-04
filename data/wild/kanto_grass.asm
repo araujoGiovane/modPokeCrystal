@@ -296,25 +296,25 @@ KantoGrassWildMons:
 	db 13, PIDGEY
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
-	db 12, ABRA
+	db 13, MEOWTH
 	db 14, JIGGLYPUFF
-	db 14, ABRA
+	db 13, HOOTHOOT
 	db 14, ABRA
 	; day
 	db 13, PIDGEY
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
-	db 12, ABRA
+	db 13, MEOWTH
 	db 14, JIGGLYPUFF
-	db 14, ABRA
+	db 13, HOOTHOOT
 	db 14, ABRA
 	; nite
 	db 13, HOOTHOOT
 	db 13, MEOWTH
 	db 15, NOCTOWL
-	db 12, ABRA
+	db 13, SNUBBULL
 	db 14, JIGGLYPUFF
-	db 14, ABRA
+	db 13, PIDGEY
 	db 14, ABRA
 	end_grass_wildmons
 
@@ -324,53 +324,53 @@ KantoGrassWildMons:
 	db 13, RATTATA
 	db 13, SNUBBULL
 	db 14, MAGNEMITE
-	db 15, RATICATE
+	db 15, PSYDUCK
 	db 12, JIGGLYPUFF
-	db 15, GRANBULL
-	db 15, GRANBULL
+	db 13, MEOWTH
+	db 13, DROWZEE
 	; day
 	db 13, RATTATA
 	db 13, SNUBBULL
 	db 14, MAGNEMITE
-	db 15, RATICATE
+	db 15, PSYDUCK
 	db 12, JIGGLYPUFF
-	db 15, GRANBULL
-	db 15, GRANBULL
+	db 13, MEOWTH
+	db 13, DROWZEE
 	; nite
 	db 13, MEOWTH
 	db 13, DROWZEE
 	db 14, MAGNEMITE
 	db 15, PSYDUCK
 	db 12, JIGGLYPUFF
-	db 15, RATICATE
-	db 15, RATICATE
+	db 13, RATTATA
+	db 13, SNUBBULL
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_7
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 17, RATTATA
-	db 17, SPEAROW
+	db 17, MURKROW
 	db 18, SNUBBULL
-	db 18, RATICATE
+	db 18, HOUNDOUR
 	db 18, JIGGLYPUFF
-	db 16, ABRA
+	db 17, MEOWTH
 	db 16, ABRA
 	; day
 	db 17, RATTATA
-	db 17, SPEAROW
+	db 17, MURKROW
 	db 18, SNUBBULL
-	db 18, RATICATE
+	db 18, HOUNDOUR
 	db 18, JIGGLYPUFF
-	db 16, ABRA
+	db 17, MEOWTH
 	db 16, ABRA
 	; nite
 	db 17, MEOWTH
 	db 17, MURKROW
 	db 18, HOUNDOUR
-	db 18, PERSIAN
+	db 18, SNUBBULL
 	db 18, JIGGLYPUFF
-	db 16, ABRA
+	db 17, RATTATA
 	db 16, ABRA
 	end_grass_wildmons
 
@@ -382,24 +382,24 @@ KantoGrassWildMons:
 	db 16, ABRA
 	db 17, GROWLITHE
 	db 16, JIGGLYPUFF
-	db 18, KADABRA
-	db 18, KADABRA
+	db 17, MEOWTH
+	db 17, HAUNTER
 	; day
 	db 17, SNUBBULL
 	db 19, PIDGEOTTO
 	db 16, ABRA
 	db 17, GROWLITHE
 	db 16, JIGGLYPUFF
-	db 18, KADABRA
-	db 18, KADABRA
+	db 17, MEOWTH
+	db 17, HAUNTER
 	; nite
 	db 17, MEOWTH
 	db 20, NOCTOWL
 	db 16, ABRA
 	db 17, HAUNTER
 	db 16, JIGGLYPUFF
-	db 18, KADABRA
-	db 18, KADABRA
+	db 17, SNUBBULL
+	db 17, GROWLITHE
 	end_grass_wildmons
 
 ;----------------------------------------------------------------------------------
