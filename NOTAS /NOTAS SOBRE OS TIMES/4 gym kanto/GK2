@@ -1,36 +1,36 @@
 MISTY
 CORSOLA 59
-    SURF           ; HM
+    SURF           ; HM ok
     ANCIENT POWER  ; LV 43
     MIRROR COAT    ; LV 37
     RECOVER        ; LV 19
 
 GOLDUCK 59
-    SURF           ; HM
+    SURF           ; HM ok
     LIGHT SCREEN   ; EGG
     ICE BEAM       ; MOVE TUTOR ok
     REST           ; TM
 
 MANTINE 59
-    SURF           ; HM
+    SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
     CONFUSE RAY    ; LV 49
     AGILITY        ; LV 32
 
 QUAGSIRE 59
-    SURF           ; HM
+    SURF           ; HM ok
     EARTHQUAKE     ; TM
     CURSE          ; TM
     ANCIENT POWER  ; EGG
 
 OMASTAR 59
-    SURF           ; HM
+    SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
     DOUBLE TEAM    ; TM
     REST           ; TM
 
 STARMIE 60
-    SURF           ; HM
+    SURF           ; HM ok
     RECOVER        ; LV 19 (PRE)
     THUNDERBOLT    ; MOVE TUTOR ok
     ICE BEAM       ; MOVE TUTOR ok
@@ -133,7 +133,7 @@ ARCANINE 63
 
 GYARADOS 63
     FLAIL          ; LV 30 (PRE)
-    SURF           ; HM
+    SURF           ; HM ok
     ICY WIND       ; TM
     HIDDEN POWER   ; TM
 

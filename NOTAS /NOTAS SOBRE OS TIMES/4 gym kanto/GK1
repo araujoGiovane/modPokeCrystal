@@ -12,13 +12,13 @@ AMPHAROS 55
     HIDDEN POWER   ; TM
 
 LANTURN 55
-    SURF           ; HM
+    SURF           ; HM ok
     THUNDERBOLT    ; MOVE TUTOR ok
     ICE BEAM       ; MOVE TUTOR ok
     CONFUSE RAY    ; LV 29 (PRE)
 
 LANTURN 55
-    SURF           ; HM
+    SURF           ; HM ok
     THUNDERBOLT    ; MOVE TUTOR ok
     ICE BEAM       ; MOVE TUTOR ok
     RAIN DANCE     ; TM
@@ -126,7 +126,7 @@ QWILFISH 58
     SPIKES         ; LV 1
 
 QWILFISH 58
-    SURF           ; HM
+    SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
     SLUDGE BOMB    ; TM
     SPIKES         ; LV 1
@@ -147,7 +147,7 @@ NIDOQUEEN 58
     HIDDEN POWER   ; TM
     EARTHQUAKE     ; TM
     TOXIC          ; TM
-    SURF           ; HM
+    SURF           ; HM ok
 
 VENOMOTH 59
     TOXIC          ; TM
