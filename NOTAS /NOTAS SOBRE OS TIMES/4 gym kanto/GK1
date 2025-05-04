@@ -2,35 +2,35 @@ SURGE
 RAICHU 55
     SWEET KISS     ; LV 1 (PRE)
     DOUBLE TEAM    ; TM
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
     CHARM          ; LV 1 (PRE)
 
 AMPHAROS 55
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
     REFLECT        ; EGG
     REST           ; TM
     HIDDEN POWER   ; TM
 
 LANTURN 55
     SURF           ; HM
-    THUNDERBOLT    ; MOVE TUTOR
-    ICE BEAM       ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
+    ICE BEAM       ; MOVE TUTOR ok
     CONFUSE RAY    ; LV 29 (PRE)
 
 LANTURN 55
     SURF           ; HM
-    THUNDERBOLT    ; MOVE TUTOR
-    ICE BEAM       ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
+    ICE BEAM       ; MOVE TUTOR ok
     RAIN DANCE     ; TM
 
 ELECTRODE 55
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
     DOUBLE TEAM    ; TM
     HIDDEN POWER   ; TM
     EXPLOSION      ; LV 39 (PRE)
 
 ELECTABUZZ 56
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
     CROSS CHOP     ; EGG
     ICE PUNCH      ; TM
     DOUBLE TEAM    ; TM
@@ -59,7 +59,7 @@ UNOWN 56  ; LETRA S
 
 MR MIME 56
     PSYCHIC        ; TM
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
     BARRIER        ; LV 1
     BATON PASS     ; LV 41
 
@@ -122,12 +122,12 @@ JANINE
 QWILFISH 58
     HYDRO PUMP     ; LV 46
     TOXIC          ; TM
-    ICE BEAM       ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR ok
     SPIKES         ; LV 1
 
 QWILFISH 58
     SURF           ; HM
-    ICE BEAM       ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR ok
     SLUDGE BOMB    ; TM
     SPIKES         ; LV 1
 
