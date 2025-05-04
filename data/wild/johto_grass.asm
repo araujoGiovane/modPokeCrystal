@@ -1598,25 +1598,25 @@ JohtoGrassWildMons:
 	db 13, EKANS
 	db 14, SPEAROW
 	db 15, RATTATA
-	db 16, RATICATE
+	db 15, MARILL
 	db 15, ARBOK
-	db 16, FEAROW
+	db 14, ZUBAT
 	db 16, FEAROW
 	; day
 	db 13, EKANS
 	db 14, SPEAROW
 	db 15, RATTATA
 	db 16, RATICATE
-	db 15, ARBOK
-	db 16, FEAROW
+	db 15, MARILL
+	db 14, ZUBAT
 	db 16, FEAROW
 	; nite
-	db 13, RATTATA
+	db 13, EKANS
 	db 14, ZUBAT
 	db 15, RATICATE
 	db 16, GOLBAT
 	db 15, MARILL
-	db 16, GOLBAT
+	db 14, SPEAROW
 	db 16, GOLBAT
 	end_grass_wildmons
 
@@ -1628,7 +1628,7 @@ JohtoGrassWildMons:
 	db 16, FARFETCH_D
 	db 15, FURRET
 	db 17, RATICATE
-	db 17, FURRET
+	db 15, VENONAT
 	db 17, FURRET
 	; day
 	db 15, SENTRET
@@ -1636,15 +1636,15 @@ JohtoGrassWildMons:
 	db 16, FARFETCH_D
 	db 15, FURRET
 	db 17, RATICATE
-	db 17, FURRET
+	db 15, VENONAT
 	db 17, FURRET
 	; nite
 	db 15, VENONAT
 	db 16, NOCTOWL
-	db 16, RATICATE
+	db 16, FARFETCH_D
 	db 17, VENONAT
 	db 17, RATICATE
-	db 17, VENOMOTH
+	db 15, SENTRET
 	db 17, VENOMOTH
 	end_grass_wildmons
 
@@ -1656,7 +1656,7 @@ JohtoGrassWildMons:
 	db 22, BELLSPROUT
 	db 24, WEEPINBELL
 	db 24, LICKITUNG
-	db 26, LICKITUNG
+	db 22, POLIWAG
 	db 26, LICKITUNG
 	; day
 	db 23, TANGELA
@@ -1665,18 +1665,18 @@ JohtoGrassWildMons:
 	db 24, WEEPINBELL
 	db 24, LICKITUNG
 	db 26, LICKITUNG
-	db 26, LICKITUNG
+	db 22, POLIWAG
 	; nite
 	db 23, TANGELA
 	db 22, POLIWAG
 	db 22, BELLSPROUT
 	db 24, WEEPINBELL
 	db 24, POLIWHIRL
-	db 26, POLIWHIRL
+	db 26, LICKITUNG
 	db 26, POLIWHIRL
 	end_grass_wildmons
 
-	def_grass_wildmons ROUTE_45
+	def_grass_wildmons ROUTE_45NÃOOOOOOOOOOOOOOOOOOOOOOO MEXE 
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, GEODUDE
@@ -1718,15 +1718,15 @@ JohtoGrassWildMons:
 	db 2, GEODUDE
 	db 2, SPEAROW
 	db 3, GEODUDE
-	db 3, RATTATA
+	db 2, PHANPY
 	db 2, RATTATA
 	db 2, RATTATA
 	db 2, RATTATA
 	; nite
 	db 2, GEODUDE
-	db 2, RATTATA
+	db 2, SPEAROW
 	db 3, GEODUDE
-	db 3, RATTATA
+	db 2, PHANPY
 	db 2, RATTATA
 	db 2, RATTATA
 	db 2, RATTATA
@@ -1736,26 +1736,26 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 41, TANGELA
-	db 42, PONYTA
+	db 42, POLIWHIRL
 	db 42, ARBOK
 	db 44, RAPIDASH
 	db 41, DODUO
-	db 43, DODRIO
+	db 44, GOLBAT
 	db 43, DODRIO
 	; day
 	db 41, TANGELA
 	db 42, PONYTA
 	db 42, ARBOK
-	db 44, RAPIDASH
+	db 42, POLIWHIRL
 	db 41, DODUO
-	db 43, DODRIO
+	db 44, GOLBAT
 	db 43, DODRIO
 	; nite
 	db 41, TANGELA
 	db 42, POLIWHIRL
-	db 42, GOLBAT
-	db 44, POLIWHIRL
-	db 40, GOLBAT
+	db 42, PONYTA
+	db 42, ARBOK
+	db 41, DODUO
 	db 44, GOLBAT
 	db 44, GOLBAT
 	end_grass_wildmons

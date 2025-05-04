@@ -157,7 +157,38 @@
     NA ROTA 38 E 39 PIDGEOTO E NOCTOW SÃO DIURNI E NOTURNO 
 
 
-5.1.9 SEÇÃO 9____[ ]
+5.1.9 SEÇÃO 9____[ok]
+    NA ROTA 43 PIPDGEOTO E COCTOWL SÃO DIURNO E NOTURNO 
+
+        esse exemplo pode ser usado pra explicar a mudança
+	; morn
+	db 41, TANGELA
+	db 42, POLIWHIRL
+	db 42, ARBOK
+	db 44, RAPIDASH
+	db 41, DODUO
+	db 44, GOLBAT
+	db 43, DODRIO
+	; day
+	db 41, TANGELA
+	db 42, PONYTA
+	db 42, ARBOK
+	db 42, POLIWHIRL
+	db 41, DODUO
+	db 44, GOLBAT
+	db 43, DODRIO
+	; nite
+	db 41, TANGELA
+	db 42, POLIWHIRL
+	db 42, PONYTA
+	db 42, ARBOK
+	db 41, DODUO
+	db 44, GOLBAT
+	db 44, GOLBAT
+	end_grass_wildmons
+
+
+
 
 
 
