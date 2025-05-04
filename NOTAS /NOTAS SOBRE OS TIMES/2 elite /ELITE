@@ -1,39 +1,39 @@
 WILL
 SLOWKING 49
-    SWAGGER        ; TM
+    SWAGGER        ; TM ok
     SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
-    EARTHQUAKE     ; TM
+    EARTHQUAKE     ; TM ok
 
 SLOWKING 49
-    REST           ; TM
+    REST           ; TM ok
     AMNESIA        ; LV 43 (PRE)
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     ICE BEAM       ; MOVE TUTOR ok
 
 GIRAFARIG 49
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     STOMP          ; LV 17
-    SHADOW BALL    ; TM
+    SHADOW BALL    ; TM ok
     THUNDERBOLT    ; MOVE TUTOR ok
 
 JYNX 48
     LOVELY KISS    ; LV 9
-    ICY WIND       ; TM
-    PSYCHIC        ; TM
+    ICY WIND       ; TM ok
+    PSYCHIC        ; TM ok
     ICE BEAM       ; MOVE TUTOR ok
 
 HYPNO 48
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     HYPNOSIS       ; LV 1 (PRE)
-    NIGHTMARE      ; TM
-    SHADOW BALL    ; TM
+    NIGHTMARE      ; TM ok
+    SHADOW BALL    ; TM ok
 
 NATU 50
     DRILL PECK     ; EGG
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     CONFUSE RAY    ; LV 19
-    DOUBLE TEAM    ; TM
+    DOUBLE TEAM    ; TM ok
 
 
 
@@ -43,37 +43,37 @@ TENTACRUEL 49
     MIRROR COAT     ; EGG
     SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
-    GIGA DRAIN      ; TM
+    GIGA DRAIN      ; TM ok
 
 NIDOKING 49
-    SHADOW BALL     ; TM
-    EARTHQUAKE      ; TM
+    SHADOW BALL     ; TM ok
+    EARTHQUAKE      ; TM ok
     AMNESIA         ; EGG
     THUNDERBOLT     ; MOVE TUTOR ok
 
 ARIADOS 50
     AGILITY         ; LV 45 (PRE)
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
     BATON PASS      ; EGG
-    SLUDGE BOMB     ; TM
+    SLUDGE BOMB     ; TM ok
 
 MUK 50
-    SLUDGE BOMB     ; TM
-    GIGA DRAIN      ; TM
+    SLUDGE BOMB     ; TM ok
+    GIGA DRAIN      ; TM ok
     ACID ARMOR      ; LV 40 (PRE)
     MINIMIZE        ; LV 23 (PRE)
 
 WEEZING 50
-    SLUDGE BOMB     ; TM
+    SLUDGE BOMB     ; TM ok
     EXPLOSION       ; LV 41 (PRE)
     PAIN SPLIT      ; EGG
     DESTINY BOND    ; LV 45 (PRE)
 
 CROBAT 51
     WING ATTACK     ; LV 27 (PRE)
-    TOXIC           ; TM
+    TOXIC           ; TM ok
     CONFUSE RAY     ; LV 19 (PRE)
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
 
 
 
@@ -81,39 +81,39 @@ CROBAT 51
 BRUNO
 HITMONTOP 50
     HI JUMP KICK    ; EGG
-    SLEEP TALK      ; TM
-    REST            ; TM
-    MUD-SLAP        ; TM
+    SLEEP TALK      ; TM ok
+    REST            ; TM ok
+    MUD-SLAP        ; TM ok 
 
 HITMONTOP 50
     MACH PUNCH      ; EGG
-    HIDDEN POWER    ; TM
-    CURSE           ; TM
-    DOUBLE TEAM     ; TM
+    HIDDEN POWER    ; TM ok
+    CURSE           ; TM ok
+    DOUBLE TEAM     ; TM ok
 
 HITMONTOP 51
     HI JUMP KICK    ; EGG
-    HEADBUTT        ; TM
-    CURSE           ; TM
-    MUD-SLAP        ; TM
+    HEADBUTT        ; TM ok
+    CURSE           ; TM ok
+    MUD-SLAP        ; TM ok
 
 HITMONCHAN 51
     MACH PUNCH      ; LV 32
     HI JUMP KICK    ; EGG
-    CURSE           ; TM
-    MUD-SLAP        ; TM
+    CURSE           ; TM ok
+    MUD-SLAP        ; TM ok
 
 HITMONLEE 51
     HI JUMP KICK    ; LV 26
-    HIDDEN POWER    ; TM
-    MUD-SLAP        ; TM
-    ATTRACT         ; TM
+    HIDDEN POWER    ; TM ok
+    MUD-SLAP        ; TM ok
+    ATTRACT         ; TM ok
 
 MACHAMP 52
     CROSS CHOP      ; LV 37 (PRE)
     VITAL THROW     ; LV 31 (PRE)
-    EARTHQUAKE      ; TM
-    CURSE           ; TM
+    EARTHQUAKE      ; TM ok
+    CURSE           ; TM ok
 
 
 
@@ -121,36 +121,36 @@ MACHAMP 52
 KAREN
 UMBREON 52
     CHARM           ; EGG
-    TOXIC           ; TM
+    TOXIC           ; TM ok
     MOONLIGHT       ; LV 52
     PURSUIT         ; LV 19
 
 SNEASEL 51
-    SHADOW BALL     ; TM
+    SHADOW BALL     ; TM ok
     ICE BEAM        ; MOVE TUTOR ok
     SCREECH         ; LV 17
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
 
 MURKROW 51
     DRILL PECK      ; EGG
     FAINT ATTACK    ; LV 31
-    STEEL WING      ; TM
-    MUD-SLAP        ; TM
+    STEEL WING      ; TM ok
+    MUD-SLAP        ; TM ok
 
 UMBREON 52
     CONFUSE RAY     ; LV 30
     MEAN LOOK       ; LV 42
-    TOXIC           ; TM
+    TOXIC           ; TM ok
     MOONLIGHT       ; LV 52
 
 MURKROW 51
     FAINT ATTACK    ; LV 31
     DRILL PECK      ; EGG
-    ICY WIND        ; TM
-    HIDDEN POWER    ; TM
+    ICY WIND        ; TM ok
+    HIDDEN POWER    ; TM ok
 
 HOUNDOOM 53
     CRUNCH          ; LV 43 (PRE)
     FLAMETHROWER    ; MOVE TUTOR ok
-    SOLARBEAM       ; TM
-    SUNNY DAY       ; TM
+    SOLARBEAM       ; TM ok
+    SUNNY DAY       ; TM ok
