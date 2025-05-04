@@ -1,15 +1,15 @@
 SURGE
 RAICHU 55
     SWEET KISS     ; LV 1 (PRE)
-    DOUBLE TEAM    ; TM
+    DOUBLE TEAM    ; TM ok
     THUNDERBOLT    ; MOVE TUTOR ok
     CHARM          ; LV 1 (PRE)
 
 AMPHAROS 55
     THUNDERBOLT    ; MOVE TUTOR ok
     REFLECT        ; EGG
-    REST           ; TM
-    HIDDEN POWER   ; TM
+    REST           ; TM ok
+    HIDDEN POWER   ; TM ok
 
 LANTURN 55
     SURF           ; HM ok
@@ -21,19 +21,19 @@ LANTURN 55
     SURF           ; HM ok
     THUNDERBOLT    ; MOVE TUTOR ok
     ICE BEAM       ; MOVE TUTOR ok
-    RAIN DANCE     ; TM
+    RAIN DANCE     ; TM ok
 
 ELECTRODE 55
     THUNDERBOLT    ; MOVE TUTOR ok
-    DOUBLE TEAM    ; TM
-    HIDDEN POWER   ; TM
+    DOUBLE TEAM    ; TM ok
+    HIDDEN POWER   ; TM ok
     EXPLOSION      ; LV 39 (PRE)
 
 ELECTABUZZ 56
     THUNDERBOLT    ; MOVE TUTOR ok
     CROSS CHOP     ; EGG
-    ICE PUNCH      ; TM
-    DOUBLE TEAM    ; TM
+    ICE PUNCH      ; TM ok
+    DOUBLE TEAM    ; TM ok
 
 
 
@@ -47,9 +47,9 @@ WOBBUFFET 56
 
 EXEGGUTOR 56
     SYNTHESIS      ; EGG
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     SLEEP POWDER   ; LV 37 (PRE)
-    NIGHTMARE      ; TM
+    NIGHTMARE      ; TM ok
 
 UNOWN 56  ; LETRA S
     HIDDEN POWER   ; LV 1
@@ -58,62 +58,62 @@ UNOWN 56  ; LETRA S
     NO_MOVE ;NÃO APRENDE MAIS
 
 MR MIME 56
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     THUNDERBOLT    ; MOVE TUTOR ok
     BARRIER        ; LV 1
     BATON PASS     ; LV 41
 
 EXEGGUTOR 56
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     SLEEP POWDER   ; LV 37 (PRE)
     ANCIENT POWER  ; EGG
-    DREAM EATER    ; TM
+    DREAM EATER    ; TM ok
 
 ALAKAZAM 57
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     RECOVER        ; LV 26 (PRE)
-    THUNDER PUNCH  ; TM
-    ICE PUNCH      ; TM
+    THUNDER PUNCH  ; TM ok
+    ICE PUNCH      ; TM ok
 
 
 
 
 ERIKA
 JUMPLUFF 57
-    GIGA DRAIN     ; TM
+    GIGA DRAIN     ; TM ok
     SLEEP POWDER   ; LV 17 (PRE)
     LEECH SEED     ; LV 20 (PRE)
     ENCORE         ; EGG
 
 SUNFLORA 57
-    GIGA DRAIN     ; TM
-    SLUDGE BOMB    ; TM
+    GIGA DRAIN     ; TM ok
+    SLUDGE BOMB    ; TM ok
     SYNTHESIS      ; LV 31 (PRE)
-    HIDDEN POWER   ; TM
+    HIDDEN POWER   ; TM ok
 
 TANGELA 57
-    GIGA DRAIN     ; TM
-    SLUDGE BOMB    ; TM
+    GIGA DRAIN     ; TM ok
+    SLUDGE BOMB    ; TM ok
     AMNESIA        ; EGG
-    REST           ; TM
+    REST           ; TM ok
 
 PARASECT 57
     SPORE          ; LV 25 (PRE)
-    GIGA DRAIN     ; TM
-    SLUDGE BOMB    ; TM
+    GIGA DRAIN     ; TM ok
+    SLUDGE BOMB    ; TM ok
     LIGHT SCREEN   ; EGG
 
 VICTREEBEL 58
     SWORDS DANCE   ; EGG
-    SLUDGE BOMB    ; TM
-    GIGA DRAIN     ; TM
+    SLUDGE BOMB    ; TM ok
+    GIGA DRAIN     ; TM ok
     SLEEP POWDER   ; LV 15 (PRE)
 
 BELLOSSOM 58
     SLEEP POWDER   ; LV 18 (PRE)
-    GIGA DRAIN     ; TM
+    GIGA DRAIN     ; TM ok
     SYNTHESIS      ; EGG
-    SLUDGE BOMB    ; TM
+    SLUDGE BOMB    ; TM ok
 
 
 
@@ -121,36 +121,36 @@ BELLOSSOM 58
 JANINE
 QWILFISH 58
     HYDRO PUMP     ; LV 46
-    TOXIC          ; TM
+    TOXIC          ; TM ok
     ICE BEAM       ; MOVE TUTOR ok
     SPIKES         ; LV 1
 
 QWILFISH 58
     SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
-    SLUDGE BOMB    ; TM
+    SLUDGE BOMB    ; TM ok
     SPIKES         ; LV 1
 
 ARBOK 58
-    SLUDGE BOMB    ; TM
-    EARTHQUAKE     ; TM
+    SLUDGE BOMB    ; TM ok
+    EARTHQUAKE     ; TM ok
     CRUNCH         ; EGG
     GLARE          ; LV 23 (PRE)
 
 BEEDRILL 58
-    SLUDGE BOMB    ; TM
-    DOUBLE TEAM    ; TM
+    SLUDGE BOMB    ; TM ok
+    DOUBLE TEAM    ; TM ok
     AGILITY        ; LV 40
-    HIDDEN POWER   ; TM
+    HIDDEN POWER   ; TM ok
 
 NIDOQUEEN 58
-    HIDDEN POWER   ; TM
-    EARTHQUAKE     ; TM
-    TOXIC          ; TM
+    HIDDEN POWER   ; TM ok
+    EARTHQUAKE     ; TM ok
+    TOXIC          ; TM ok
     SURF           ; HM ok
 
 VENOMOTH 59
-    TOXIC          ; TM
-    SLUDGE BOMB    ; TM
-    PSYCHIC        ; TM
-    DOUBLE TEAM    ; TM
+    TOXIC          ; TM ok
+    SLUDGE BOMB    ; TM ok
+    PSYCHIC        ; TM ok
+    DOUBLE TEAM    ; TM ok
