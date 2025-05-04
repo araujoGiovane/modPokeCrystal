@@ -9,7 +9,7 @@ GOLDUCK 59
     SURF           ; HM ok
     LIGHT SCREEN   ; EGG
     ICE BEAM       ; MOVE TUTOR ok
-    REST           ; TM
+    REST           ; TM ok
 
 MANTINE 59
     SURF           ; HM ok
@@ -19,15 +19,15 @@ MANTINE 59
 
 QUAGSIRE 59
     SURF           ; HM ok
-    EARTHQUAKE     ; TM
-    CURSE          ; TM
+    EARTHQUAKE     ; TM ok
+    CURSE          ; TM ok
     ANCIENT POWER  ; EGG
 
 OMASTAR 59
     SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
-    DOUBLE TEAM    ; TM
-    REST           ; TM
+    DOUBLE TEAM    ; TM ok
+    REST           ; TM ok
 
 STARMIE 60
     SURF           ; HM ok
@@ -41,40 +41,40 @@ STARMIE 60
 
 BROCK
 GOLEM 60
-    EARTHQUAKE     ; TM
+    EARTHQUAKE     ; TM ok
     ROCK SLIDE     ; EGG
     EXPLOSION      ; LV 41 (PRE)
-    HIDDEN POWER   ; TM
+    HIDDEN POWER   ; TM ok
 
 SUDOWOODO 60
     ROCK SLIDE     ; LV 28
-    EARTHQUAKE     ; TM
-    SANDSTORM      ; TM
+    EARTHQUAKE     ; TM ok
+    SANDSTORM      ; TM ok
     SELF-DESTRUCT  ; EGG
 
 KABUTOPS 60
     ANCIENT POWER  ; LV 55 (PRE)
-    SANDSTORM      ; TM
-    BLIZZARD       ; TM
-    PROTECT        ; TM
+    SANDSTORM      ; TM ok
+    BLIZZARD       ; TM ok
+    PROTECT        ; TM ok
 
 AERODACTYL 60
     ANCIENT POWER  ; LV 29
     WING ATTACK    ; LV 1
-    STEEL WING     ; TM
-    SANDSTORM      ; TM
+    STEEL WING     ; TM ok
+    SANDSTORM      ; TM ok
 
 SHUCKLE 60
-    ROLLOUT        ; TM
-    SANDSTORM      ; TM
-    DEFENSE CURL   ; TM
-    REST           ; TM
+    ROLLOUT        ; TM ok
+    SANDSTORM      ; TM ok
+    DEFENSE CURL   ; TM ok
+    REST           ; TM ok
 
 TYRANITAR 61
     ANCIENT POWER  ; EGG
     CRUNCH         ; LV 43 (PRE)
-    REST           ; TM
-    SLEEP TALK     ; TM
+    REST           ; TM ok
+    SLEEP TALK     ; TM ok
 
 
 
@@ -83,37 +83,37 @@ MAGCARGO 61
     FLAMETHROWER   ; MOVE TUTOR ok
     ROCK SLIDE     ; LV 43 (PRE)
     AMNESIA        ; LV 29 (PRE)
-    HIDDEN POWER   ; TM
+    HIDDEN POWER   ; TM ok
 
 MAGCARGO 61
     ACID ARMOR     ; EGG
-    FLAMETHROWER   ; TM
-    REST           ; TM
+    FLAMETHROWER   ; MOVE TUTOR OK
+    REST           ; TM ok
     AMNESIA        ; LV 29 (PRE)
 
 MAGMAR 61
     CONFUSE RAY    ; LV 43 (PRE)
     FLAMETHROWER   ; MOVE TUTOR ok
     CROSS CHOP     ; EGG
-    THUNDER PUNCH  ; TM
+    THUNDER PUNCH  ; TM ok
 
 ARCANINE 61
     FLAMETHROWER   ; MOVE TUTOR ok
     CRUNCH         ; EGG
-    SLEEP TALK     ; TM
-    REST           ; TM
+    SLEEP TALK     ; TM ok
+    REST           ; TM ok
 
 NINETALES 61
     FLAMETHROWER   ; MOVE TUTOR ok
     CONFUSE RAY    ; LV 19 (PRE)
     HYPNOSIS       ; EGG
-    HIDDEN POWER   ; TM
+    HIDDEN POWER   ; TM ok
 
 RAPIDASH 62
     HYPNOSIS       ; EGG
     FLAMETHROWER   ; MOVE TUTOR ok
-    HIDDEN POWER   ; TM
-    DOUBLE TEAM    ; TM
+    HIDDEN POWER   ; TM ok
+    DOUBLE TEAM    ; TM ok
 
 
 
@@ -121,37 +121,37 @@ RAPIDASH 62
 BLUE
 EXEGGUTOR 63
     SLEEP POWDER   ; LV 37 (PRE)
-    GIGA DRAIN     ; TM
-    PSYCHIC        ; TM
-    DOUBLE TEAM    ; TM
+    GIGA DRAIN     ; TM ok
+    PSYCHIC        ; TM ok
+    DOUBLE TEAM    ; TM ok
 
 ARCANINE 63
     FLAMETHROWER   ; MOVE TUTOR ok
     EXTREME SPEED  ; LV 50
-    HIDDEN POWER   ; TM
-    ATTRACT        ; TM
+    HIDDEN POWER   ; TM ok
+    ATTRACT        ; TM ok
 
 GYARADOS 63
     FLAIL          ; LV 30 (PRE)
     SURF           ; HM ok
-    ICY WIND       ; TM
-    HIDDEN POWER   ; TM
+    ICY WIND       ; TM ok
+    HIDDEN POWER   ; TM ok
 
 ALAKAZAM 63
-    PSYCHIC        ; TM
+    PSYCHIC        ; TM ok
     RECOVER        ; LV 26 (PRE)
-    DOUBLE TEAM    ; TM
-    ICE PUNCH      ; TM
+    DOUBLE TEAM    ; TM ok
+    ICE PUNCH      ; TM ok
 
 PIDGEOT 63
     WING ATTACK    ; LV 29 (PRE)
-    STEEL WING     ; TM
-    MUD SLAP       ; TM
-    HYPER BEAM     ; TM
+    STEEL WING     ; TM ok
+    MUD SLAP       ; TM ok
+    HYPER BEAM     ; TM ok
 
 RHYDON 63
-    EARTHQUAKE     ; TM
+    EARTHQUAKE     ; TM ok
     ROCK SLIDE     ; EGG
-    ICY WIND       ; TM
-    HIDDEN POWER   ; TM
+    ICY WIND       ; TM ok
+    HIDDEN POWER   ; TM ok
 
