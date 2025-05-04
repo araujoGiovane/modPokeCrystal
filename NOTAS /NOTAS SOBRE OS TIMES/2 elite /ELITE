@@ -1,7 +1,7 @@
 WILL
 SLOWKING 49
     SWAGGER        ; TM
-    SURF           ; HM
+    SURF           ; HM ok
     ICE BEAM       ; MOVE TUTOR ok
     EARTHQUAKE     ; TM
 
@@ -41,7 +41,7 @@ NATU 50
 KOGA
 TENTACRUEL 49
     MIRROR COAT     ; EGG
-    SURF            ; HM
+    SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
     GIGA DRAIN      ; TM
 
