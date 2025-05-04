@@ -1,27 +1,27 @@
 LANCE
 KINGDRA 53
-    ICY WIND        ; TM
+    ICY WIND        ; TM ok
     HYDRO PUMP      ; LV 43 (PRE)
-    REST            ; TM
-    DRAGONBREATH    ; TM
+    REST            ; TM ok
+    DRAGONBREATH    ; TM ok
 
 DRAGONAIR 54
     AGILITY         ; LV 36 (PRE)
     THUNDERBOLT     ; MOVE TUTOR ok
     ICE BEAM        ; MOVE TUTOR ok
-    DOUBLE TEAM     ; TM
+    DOUBLE TEAM     ; TM ok
 
 KINGDRA 53
     SURF            ; HM ok
-    DRAGONBREATH    ; TM
-    REST            ; TM
-    DOUBLE TEAM     ; TM
+    DRAGONBREATH    ; TM ok
+    REST            ; TM ok
+    DOUBLE TEAM     ; TM ok
 
 KINGDRA 53
     SMOKESCREEN     ; LV 8 (PRE)
     SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
-    DRAGONBREATH    ; TM
+    DRAGONBREATH    ; TM ok
 
 DRAGONAIR 54
     THUNDER WAVE    ; LV 8 (PRE)
