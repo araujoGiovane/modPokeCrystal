@@ -80,14 +80,14 @@ SNEASEL 34
     IRON TAIL       ; TM ok
 
 GOLBAT 36
-    ATTRACT         ; TM
+    ATTRACT         ; TM ok
     BITE            ; LV 12 (PRE)
     CONFUSE RAY     ; LV 19 (PRE)
     WING ATTACK     ; LV 27 (PRE)
 
 MAGNETON 35
     THUNDERBOLT     ; MOVE TUTOR ok
-    HIDDEN POWER    ; TM 
+    HIDDEN POWER    ; TM ok
     THUNDER WAVE    ; LV 21 (PRE)
     TRI ATTACK      ; LV 35
 
