@@ -12,14 +12,14 @@ DRAGONAIR 54
     DOUBLE TEAM     ; TM
 
 KINGDRA 53
-    SURF            ; HM
+    SURF            ; HM ok
     DRAGONBREATH    ; TM
     REST            ; TM
     DOUBLE TEAM     ; TM
 
 KINGDRA 53
     SMOKESCREEN     ; LV 8 (PRE)
-    SURF            ; HM
+    SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
     DRAGONBREATH    ; TM
 
@@ -33,4 +33,4 @@ DRAGONITE 55
     OUTRAGE         ; LV 50 (PRE)
     THUNDERBOLT     ; MOVE TUTOR ok
     FLAMETHROWER    ; MOVE TUTOR ok
-    SURF            ; HM
+    SURF            ; HM ok
