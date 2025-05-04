@@ -2,23 +2,23 @@ RED
 PIKACHU 81
     THUNDERBOLT    ; MOVE TUTOR ok
     SURF           ; HM ok
-    DOUBLE TEAM    ; TM
-    HEADBUTT       ; TM
+    DOUBLE TEAM    ; TM ok
+    HEADBUTT       ; TM ok
 
 ESPEON 73
-    MUD-SLAP       ; TM
-    PSYCHIC        ; TM
+    MUD-SLAP       ; TM ok
+    PSYCHIC        ; TM ok
     CHARM          ; EGG
     MORNING SUN    ; LV 52
 
 SNORLAX 75
-    CURSE          ; TM
-    REST           ; TM
-    EARTHQUAKE     ; TM
-    SNORE          ; TM
+    CURSE          ; TM ok
+    REST           ; TM ok
+    EARTHQUAKE     ; TM ok
+    SNORE          ; TM ok
 
 VENUSAUR 77
-    GIGA DRAIN     ; TM
+    GIGA DRAIN     ; TM ok
     SYNTHESIS      ; LV 39 (PRE)
     SLEEP POWDER   ; LV 15 (PRE)
     LEECH SEED     ; LV 7 (PRE)
@@ -26,11 +26,11 @@ VENUSAUR 77
 CHARIZARD 77
     FLAMETHROWER   ; MOVE TUTOR ok
     WING ATTACK    ; LV 36 (PRE)
-    EARTHQUAKE     ; TM
+    EARTHQUAKE     ; TM ok
     BELLY DRUM     ; EGG
 
 BLASTOISE 77
     SURF           ; HM ok
-    RAIN DANCE     ; TM
-    BLIZZARD       ; TM
+    RAIN DANCE     ; TM ok
+    BLIZZARD       ; TM ok
     MIRROR COAT    ; EGG
