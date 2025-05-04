@@ -618,7 +618,7 @@ KantoGrassWildMons:
 	db 31, GRIMER
 	db 32, FEAROW
 	db 33, GRIMER
-	db 33, MUK
+	db 29, SLUGMA
 	db 33, MUK
 	; day
 	db 30, FEAROW
@@ -629,12 +629,12 @@ KantoGrassWildMons:
 	db 33, MUK
 	db 33, MUK
 	; nite
-	db 30, GRIMER
+	db 30, FEAROW
 	db 29, GRIMER
 	db 31, GRIMER
 	db 32, GRIMER
 	db 33, GRIMER
-	db 33, MUK
+	db 29, SLUGMA
 	db 33, MUK
 	end_grass_wildmons
 
@@ -646,7 +646,7 @@ KantoGrassWildMons:
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, FEAROW
-	db 30, MUK
+	db 29, SLUGMA
 	db 30, MUK
 	; day
 	db 26, GRIMER
@@ -657,12 +657,12 @@ KantoGrassWildMons:
 	db 30, MUK
 	db 30, MUK
 	; nite
-	db 26, GRIMER
+	db 27, FEAROW
 	db 27, GRIMER
 	db 28, GRIMER
 	db 29, GRIMER
 	db 29, GRIMER
-	db 30, MUK
+	db 29, SLUGMA
 	db 30, MUK
 	end_grass_wildmons
 
@@ -689,7 +689,7 @@ KantoGrassWildMons:
 	db 25, RATTATA
 	db 35, TANGELA
 	db 20, RATICATE
-	db 30, TANGELA
+	db 28, MR__MIME
 	db 28, TANGELA
 	db 28, TANGELA
 	end_grass_wildmons
@@ -702,51 +702,51 @@ KantoGrassWildMons:
 	db 5, SPEAROW
 	db 4, DODUO
 	db 6, PONYTA
-	db 7, FEAROW
-	db 7, FEAROW
+	db 6, PONYTA
+	db 3, POLIWAG
 	; day
 	db 3, RATTATA
 	db 3, SPEAROW
 	db 5, SPEAROW
 	db 4, DODUO
 	db 6, PONYTA
-	db 7, FEAROW
-	db 7, FEAROW
+	db 6, PONYTA
+	db 3, POLIWAG
 	; nite
 	db 3, RATTATA
 	db 3, POLIWAG
 	db 5, RATTATA
 	db 4, POLIWAG
-	db 6, RATTATA
-	db 7, RATTATA
-	db 7, RATTATA
+	db 5, SPEAROW
+	db 4, DODUO
+	db 6, PONYTA
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_24
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 8, CATERPIE
-	db 10, CATERPIE
-	db 12, METAPOD
+	db 10, VENONAT
+	db 12, SUNKERN
 	db 12, ABRA
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
+	db 10, ODDISH
 	db 14, BUTTERFREE
 	; day
 	db 8, CATERPIE
 	db 12, SUNKERN
-	db 10, CATERPIE
+	db 10, VENONAT
 	db 12, ABRA
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 10, ODDISH
 	; nite
 	db 10, VENONAT
 	db 10, ODDISH
-	db 12, ODDISH
+	db 12, SUNKERN
 	db 12, ABRA
 	db 10, BELLSPROUT
-	db 14, GLOOM
+	db 8, CATERPIE
 	db 14, GLOOM
 	end_grass_wildmons
 
@@ -755,28 +755,35 @@ KantoGrassWildMons:
 	; morn
 	db 10, CATERPIE
 	db 10, PIDGEY
-	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 10, ODDISH
+	db 10, HOOTHOOT
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
+	db 10, VENONAT
 	db 14, BUTTERFREE
 	; day
 	db 10, CATERPIE
 	db 10, PIDGEY
-	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 10, HOOTHOOT
+	db 10, VENONAT
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 10, ODDISH
+	db 14, PIDGEOTTO
 	; nite
 	db 10, ODDISH
 	db 10, HOOTHOOT
 	db 10, VENONAT
-	db 12, NOCTOWL
+	db 10, CATERPIE
 	db 10, BELLSPROUT
-	db 14, NOCTOWL
+	db 10, PIDGEY
 	db 14, NOCTOWL
 	end_grass_wildmons
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;SEÇÃO 5
 
 	def_grass_wildmons ROUTE_26
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
@@ -805,12 +812,6 @@ KantoGrassWildMons:
 	db 30, QUAGSIRE
 	db 30, QUAGSIRE
 	end_grass_wildmons
-
-;----------------------------------------------------------------------------------
-;----------------------------------------------------------------------------------
-;----------------------------------------------------------------------------------
-
-;SEÇÃO 5
 
 	def_grass_wildmons ROUTE_27
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
