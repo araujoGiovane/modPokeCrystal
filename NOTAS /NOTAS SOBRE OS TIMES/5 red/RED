@@ -1,7 +1,7 @@
 RED
 PIKACHU 81
     THUNDERBOLT    ; MOVE TUTOR ok
-    SURF           ; HM
+    SURF           ; HM ok
     DOUBLE TEAM    ; TM
     HEADBUTT       ; TM
 
@@ -30,7 +30,7 @@ CHARIZARD 77
     BELLY DRUM     ; EGG
 
 BLASTOISE 77
-    SURF           ; HM
+    SURF           ; HM ok
     RAIN DANCE     ; TM
     BLIZZARD       ; TM
     MIRROR COAT    ; EGG
