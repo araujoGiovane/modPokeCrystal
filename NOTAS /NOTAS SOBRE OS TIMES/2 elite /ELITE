@@ -2,26 +2,26 @@ WILL
 SLOWKING 49
     SWAGGER        ; TM
     SURF           ; HM
-    ICE BEAM       ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR ok
     EARTHQUAKE     ; TM
 
 SLOWKING 49
     REST           ; TM
     AMNESIA        ; LV 43 (PRE)
     PSYCHIC        ; TM
-    ICE BEAM       ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR ok
 
 GIRAFARIG 49
     PSYCHIC        ; TM
     STOMP          ; LV 17
     SHADOW BALL    ; TM
-    THUNDERBOLT    ; MOVE TUTOR
+    THUNDERBOLT    ; MOVE TUTOR ok
 
 JYNX 48
     LOVELY KISS    ; LV 9
     ICY WIND       ; TM
     PSYCHIC        ; TM
-    ICE BEAM       ; MOVE TUTOR
+    ICE BEAM       ; MOVE TUTOR ok
 
 HYPNO 48
     PSYCHIC        ; TM
@@ -42,14 +42,14 @@ KOGA
 TENTACRUEL 49
     MIRROR COAT     ; EGG
     SURF            ; HM
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     GIGA DRAIN      ; TM
 
 NIDOKING 49
     SHADOW BALL     ; TM
     EARTHQUAKE      ; TM
     AMNESIA         ; EGG
-    THUNDERBOLT     ; MOVE TUTOR
+    THUNDERBOLT     ; MOVE TUTOR ok
 
 ARIADOS 50
     AGILITY         ; LV 45 (PRE)
@@ -127,7 +127,7 @@ UMBREON 52
 
 SNEASEL 51
     SHADOW BALL     ; TM
-    ICE BEAM        ; MOVE TUTOR
+    ICE BEAM        ; MOVE TUTOR ok
     SCREECH         ; LV 17
     DOUBLE TEAM     ; TM
 
@@ -151,6 +151,6 @@ MURKROW 51
 
 HOUNDOOM 53
     CRUNCH          ; LV 43 (PRE)
-    FLAMETHROWER    ; MOVE TUTOR
+    FLAMETHROWER    ; MOVE TUTOR ok
     SOLARBEAM       ; TM
     SUNNY DAY       ; TM
