@@ -3,7 +3,7 @@ PRIMEAPE 27
     KARATE CHOP     ; LV 15
     THUNDER         ; TM
     COUNTER         ; EGG
-    STRENGTH        ; HM
+    STRENGTH        ; HM ok
 
 HERACROSS 27
     DOUBLE TEAM     ; TM
@@ -32,7 +32,7 @@ HERACROSS 27
 POLIWRATH 30
     DYNAMIC PUNCH   ; TM
     MIND READER     ; EGG
-    SURF            ; HM
+    SURF            ; HM ok
     EARTHQUAKE      ; TM
 
 
@@ -48,7 +48,7 @@ SKARMORY 30
 MAGNEMITE 30
     THUNDERBOLT     ; MOVE TUTOR ok
     THUNDER WAVE    ; LV 21 (PRE)
-    FLASH           ; HM
+    FLASH           ; HM ok
     HIDDEN POWER    ; TM
 
 SKARMORY 30
@@ -64,7 +64,7 @@ SKARMORY 30
     DRILL PECK      ; EGG
 
 MAGNEMITE 30
-    FLASH           ; HM
+    FLASH           ; HM ok
     THUNDER         ; TM
     RAIN DANCE      ; TM
     DOUBLE TEAM     ; TM
@@ -81,7 +81,7 @@ STEELIX 33
 PRYCE
 DEWGONG 32
     ICE BEAM        ; MOVE TUTOR ok
-    SURF            ; HM
+    SURF            ; HM ok
     DOUBLE TEAM     ; TM
     REST            ; TM
 
@@ -92,13 +92,13 @@ DELIBIRD 32
     HIDDEN POWER    ; TM
 
 LAPRAS 32
-    SURF            ; HM
+    SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
     REST            ; TM
     CONFUSE RAY     ; LV 22
 
 CLOYSTER 32
-    SURF            ; HM
+    SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
     REST            ; TM
     SLEEP TALK      ; TM
@@ -107,7 +107,7 @@ SNEASEL 33
     BLIZZARD        ; TM
     DOUBLE TEAM     ; TM
     THIEF           ; TM
-    STRENGTH        ; HM
+    STRENGTH        ; HM ok
 
 PILOSWINE 35
     EARTHQUAKE      ; TM
@@ -123,7 +123,7 @@ DRAGONAIR 37
     THUNDER WAVE    ; LV 8
     DRAGON BREATH   ; TM
     LIGHT SCREEN    ; EGG
-    SURF            ; HM
+    SURF            ; HM ok
 
 DRAGONAIR 37
     THUNDER WAVE    ; LV 8
@@ -150,7 +150,7 @@ DRATINI 39
     DRAGON RAGE     ; LV 22
 
 KINGDRA 40
-    SURF            ; HM
+    SURF            ; HM ok
     ICE BEAM        ; MOVE TUTOR ok
     DRAGON BREATH   ; TM
     REST            ; TM
